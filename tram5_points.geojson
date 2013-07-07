@@ -1,0 +1,700 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 25323335, "properties": { "id": 25323335.0, "version": 15.0, "changeset": 13779474.0, "lat": 45.8174827, "lon": 16.0073855, "user": "Janjko", "uid": "244754", "visible": "true", "timestamp": "2012-11-06 21:54:45" }, "geometry": { "type": "Point", "coordinates": [ 16.0073855, 45.8174827 ] } }
+,
+{ "type": "Feature", "id": 1603960902, "properties": { "id": 1603960902.0, "version": 2.0, "changeset": 10489874.0, "lat": 45.7979768, "lon": 15.9612453, "user": "Janjko", "uid": "244754", "visible": "true", "timestamp": "2012-01-25 00:35:13" }, "geometry": { "type": "Point", "coordinates": [ 15.9612453, 45.7979768 ] } }
+,
+{ "type": "Feature", "id": 1603962860, "properties": { "id": 1603962860.0, "version": 3.0, "changeset": 10489874.0, "lat": 45.7987338, "lon": 15.9616845, "user": "Janjko", "uid": "244754", "visible": "true", "timestamp": "2012-01-25 00:35:13" }, "geometry": { "type": "Point", "coordinates": [ 15.9616845, 45.7987338 ] } }
+,
+{ "type": "Feature", "id": 506249488, "properties": { "id": 506249488.0, "version": 8.0, "changeset": 10488861.0, "lat": 45.7991954, "lon": 15.9620721, "user": "Janjko", "uid": "244754", "visible": "true", "timestamp": "2012-01-24 21:41:02" }, "geometry": { "type": "Point", "coordinates": [ 15.9620721, 45.7991954 ] } }
+,
+{ "type": "Feature", "id": 1604117581, "properties": { "id": 1604117581.0, "version": 4.0, "changeset": 12161303.0, "lat": 45.7969192, "lon": 15.9605586, "user": "Janjko", "uid": "244754", "visible": "true", "timestamp": "2012-07-09 12:17:57" }, "geometry": { "type": "Point", "coordinates": [ 15.9605586, 45.7969192 ] } }
+,
+{ "type": "Feature", "id": 1603962863, "properties": { "id": 1603962863.0, "version": 3.0, "changeset": 10489874.0, "lat": 45.7990066, "lon": 15.9618601, "user": "Janjko", "uid": "244754", "visible": "true", "timestamp": "2012-01-25 00:35:13" }, "geometry": { "type": "Point", "coordinates": [ 15.9618601, 45.7990066 ] } }
+,
+{ "type": "Feature", "id": 1603960948, "properties": { "id": 1603960948.0, "version": 3.0, "changeset": 14228377.0, "lat": 45.7994101, "lon": 15.9626293, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-10 16:59:08" }, "geometry": { "type": "Point", "coordinates": [ 15.9626293, 45.7994101 ] } }
+,
+{ "type": "Feature", "id": 1604096260, "properties": { "id": 1604096260.0, "version": 2.0, "changeset": 10488669.0, "lat": 45.7981706, "lon": 15.9613672, "user": "Janjko", "uid": "244754", "visible": "true", "timestamp": "2012-01-24 21:15:40" }, "geometry": { "type": "Point", "coordinates": [ 15.9613672, 45.7981706 ] } }
+,
+{ "type": "Feature", "id": 1604096263, "properties": { "id": 1604096263.0, "version": 2.0, "changeset": 10488669.0, "lat": 45.798461, "lon": 15.9615632, "user": "Janjko", "uid": "244754", "visible": "true", "timestamp": "2012-01-24 21:15:40" }, "geometry": { "type": "Point", "coordinates": [ 15.9615632, 45.798461 ] } }
+,
+{ "type": "Feature", "id": 1219149533, "properties": { "id": 1219149533.0, "version": 7.0, "changeset": 11580510.0, "lat": 45.7935162, "lon": 15.9582374, "user": "dplehati", "uid": "582434", "visible": "true", "timestamp": "2012-05-12 20:36:46" }, "geometry": { "type": "Point", "coordinates": [ 15.9582374, 45.7935162 ] } }
+,
+{ "type": "Feature", "id": 1491733872, "properties": { "id": 1491733872.0, "version": 2.0, "changeset": 10488779.0, "lat": 45.7934785, "lon": 15.9581035, "user": "Janjko", "uid": "244754", "visible": "true", "timestamp": "2012-01-24 21:29:52" }, "geometry": { "type": "Point", "coordinates": [ 15.9581035, 45.7934785 ] } }
+,
+{ "type": "Feature", "id": 1491733876, "properties": { "id": 1491733876.0, "version": 2.0, "changeset": 10488779.0, "lat": 45.7936283, "lon": 15.9582138, "user": "Janjko", "uid": "244754", "visible": "true", "timestamp": "2012-01-24 21:29:52" }, "geometry": { "type": "Point", "coordinates": [ 15.9582138, 45.7936283 ] } }
+,
+{ "type": "Feature", "id": 1491733883, "properties": { "id": 1491733883.0, "version": 2.0, "changeset": 10488779.0, "lat": 45.7937645, "lon": 15.9583097, "user": "Janjko", "uid": "244754", "visible": "true", "timestamp": "2012-01-24 21:29:52" }, "geometry": { "type": "Point", "coordinates": [ 15.9583097, 45.7937645 ] } }
+,
+{ "type": "Feature", "id": 1604096254, "properties": { "id": 1604096254.0, "version": 5.0, "changeset": 11580510.0, "lat": 45.7988089, "lon": 15.9618043, "user": "dplehati", "uid": "582434", "visible": "true", "timestamp": "2012-05-12 20:36:46" }, "geometry": { "type": "Point", "coordinates": [ 15.9618043, 45.7988089 ] } }
+,
+{ "type": "Feature", "id": 321507353, "properties": { "id": 321507353.0, "version": 6.0, "changeset": 14203075.0, "lat": 45.7873956, "lon": 15.9466432, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-08 17:33:28" }, "geometry": { "type": "Point", "coordinates": [ 15.9466432, 45.7873956 ] } }
+,
+{ "type": "Feature", "id": 324353510, "properties": { "id": 324353510.0, "version": 33.0, "changeset": 254602.0, "lat": 45.8147683, "lon": 15.9963831, "user": "breakpoint", "uid": "94569", "visible": "true", "timestamp": "2009-02-07 22:41:16" }, "geometry": { "type": "Point", "coordinates": [ 15.9963831, 45.8147683 ] } }
+,
+{ "type": "Feature", "id": 319226095, "properties": { "id": 319226095.0, "version": 15.0, "changeset": 9228029.0, "lat": 45.7868838, "lon": 15.9531924, "user": "Janjko", "uid": "244754", "visible": "true", "timestamp": "2011-09-06 14:34:21" }, "geometry": { "type": "Point", "coordinates": [ 15.9531924, 45.7868838 ] } }
+,
+{ "type": "Feature", "id": 1425653936, "properties": { "id": 1425653936.0, "version": 1.0, "changeset": 9232006.0, "lat": 45.789636, "lon": 15.9207366, "user": "Janjko", "uid": "244754", "visible": "true", "timestamp": "2011-09-06 21:34:30" }, "geometry": { "type": "Point", "coordinates": [ 15.9207366, 45.789636 ] } }
+,
+{ "type": "Feature", "id": 1425653952, "properties": { "id": 1425653952.0, "version": 1.0, "changeset": 9232006.0, "lat": 45.789585, "lon": 15.9207088, "user": "Janjko", "uid": "244754", "visible": "true", "timestamp": "2011-09-06 21:34:31" }, "geometry": { "type": "Point", "coordinates": [ 15.9207088, 45.789585 ] } }
+,
+{ "type": "Feature", "id": 1425654027, "properties": { "id": 1425654027.0, "version": 1.0, "changeset": 9232006.0, "lat": 45.7894222, "lon": 15.921114, "user": "Janjko", "uid": "244754", "visible": "true", "timestamp": "2011-09-06 21:34:32" }, "geometry": { "type": "Point", "coordinates": [ 15.921114, 45.7894222 ] } }
+,
+{ "type": "Feature", "id": 21284666, "properties": { "id": 21284666.0, "version": 20.0, "changeset": 14228377.0, "lat": 45.8007962, "lon": 15.9893331, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-10 16:59:08" }, "geometry": { "type": "Point", "coordinates": [ 15.9893331, 45.8007962 ] } }
+,
+{ "type": "Feature", "id": 319473885, "properties": { "id": 319473885.0, "version": 5.0, "changeset": 1323476.0, "lat": 45.7880465, "lon": 15.935757, "user": "Aleksandar Topuzović", "uid": "67265", "visible": "true", "timestamp": "2009-05-26 09:13:47" }, "geometry": { "type": "Point", "coordinates": [ 15.935757, 45.7880465 ] } }
+,
+{ "type": "Feature", "id": 410839114, "properties": { "id": 410839114.0, "version": 4.0, "changeset": 1323476.0, "lat": 45.7891303, "lon": 15.9219938, "user": "Aleksandar Topuzović", "uid": "67265", "visible": "true", "timestamp": "2009-05-26 09:13:49" }, "geometry": { "type": "Point", "coordinates": [ 15.9219938, 45.7891303 ] } }
+,
+{ "type": "Feature", "id": 319473901, "properties": { "id": 319473901.0, "version": 8.0, "changeset": 14202592.0, "lat": 45.7926232, "lon": 15.9050194, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-08 16:55:32" }, "geometry": { "type": "Point", "coordinates": [ 15.9050194, 45.7926232 ] } }
+,
+{ "type": "Feature", "id": 319473876, "properties": { "id": 319473876.0, "version": 7.0, "changeset": 14203075.0, "lat": 45.7862942, "lon": 15.9503628, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-08 17:33:28" }, "geometry": { "type": "Point", "coordinates": [ 15.9503628, 45.7862942 ] } }
+,
+{ "type": "Feature", "id": 319473912, "properties": { "id": 319473912.0, "version": 7.0, "changeset": 7103619.0, "lat": 45.7938836, "lon": 15.8920718, "user": "Janjko", "uid": "244754", "visible": "true", "timestamp": "2011-01-27 13:32:45" }, "geometry": { "type": "Point", "coordinates": [ 15.8920718, 45.7938836 ] } }
+,
+{ "type": "Feature", "id": 319473903, "properties": { "id": 319473903.0, "version": 8.0, "changeset": 14202592.0, "lat": 45.7930742, "lon": 15.9022918, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-08 16:55:32" }, "geometry": { "type": "Point", "coordinates": [ 15.9022918, 45.7930742 ] } }
+,
+{ "type": "Feature", "id": 319473890, "properties": { "id": 319473890.0, "version": 5.0, "changeset": 1323476.0, "lat": 45.7873308, "lon": 15.9317612, "user": "Aleksandar Topuzović", "uid": "67265", "visible": "true", "timestamp": "2009-05-26 09:13:48" }, "geometry": { "type": "Point", "coordinates": [ 15.9317612, 45.7873308 ] } }
+,
+{ "type": "Feature", "id": 319473895, "properties": { "id": 319473895.0, "version": 7.0, "changeset": 14202592.0, "lat": 45.7910282, "lon": 15.9174411, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-08 16:55:32" }, "geometry": { "type": "Point", "coordinates": [ 15.9174411, 45.7910282 ] } }
+,
+{ "type": "Feature", "id": 321506534, "properties": { "id": 321506534.0, "version": 7.0, "changeset": 14203075.0, "lat": 45.7870329, "lon": 15.9472338, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-08 17:33:28" }, "geometry": { "type": "Point", "coordinates": [ 15.9472338, 45.7870329 ] } }
+,
+{ "type": "Feature", "id": 319473896, "properties": { "id": 319473896.0, "version": 6.0, "changeset": 14202592.0, "lat": 45.7914791, "lon": 15.9158001, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-08 16:55:32" }, "geometry": { "type": "Point", "coordinates": [ 15.9158001, 45.7914791 ] } }
+,
+{ "type": "Feature", "id": 410836832, "properties": { "id": 410836832.0, "version": 7.0, "changeset": 14202592.0, "lat": 45.7926939, "lon": 15.9042689, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-08 16:55:33" }, "geometry": { "type": "Point", "coordinates": [ 15.9042689, 45.7926939 ] } }
+,
+{ "type": "Feature", "id": 411274503, "properties": { "id": 411274503.0, "version": 2.0, "changeset": 14202592.0, "lat": 45.7946599, "lon": 15.8957576, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-08 16:55:33" }, "geometry": { "type": "Point", "coordinates": [ 15.8957576, 45.7946599 ] } }
+,
+{ "type": "Feature", "id": 319473877, "properties": { "id": 319473877.0, "version": 7.0, "changeset": 14203075.0, "lat": 45.7862868, "lon": 15.9496439, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-08 17:33:28" }, "geometry": { "type": "Point", "coordinates": [ 15.9496439, 45.7862868 ] } }
+,
+{ "type": "Feature", "id": 319473891, "properties": { "id": 319473891.0, "version": 8.0, "changeset": 3154594.0, "lat": 45.7890127, "lon": 15.9227079, "user": "Matija Nalis", "uid": "52552", "visible": "true", "timestamp": "2009-11-18 20:59:59" }, "geometry": { "type": "Point", "coordinates": [ 15.9227079, 45.7890127 ] } }
+,
+{ "type": "Feature", "id": 319473905, "properties": { "id": 319473905.0, "version": 8.0, "changeset": 14202592.0, "lat": 45.7943208, "lon": 15.8985738, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-08 16:55:32" }, "geometry": { "type": "Point", "coordinates": [ 15.8985738, 45.7943208 ] } }
+,
+{ "type": "Feature", "id": 319473907, "properties": { "id": 319473907.0, "version": 10.0, "changeset": 14202592.0, "lat": 45.794603, "lon": 15.8971232, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-08 16:55:32" }, "geometry": { "type": "Point", "coordinates": [ 15.8971232, 45.794603 ] } }
+,
+{ "type": "Feature", "id": 410839357, "properties": { "id": 410839357.0, "version": 5.0, "changeset": 3154594.0, "lat": 45.7887923, "lon": 15.9242465, "user": "Matija Nalis", "uid": "52552", "visible": "true", "timestamp": "2009-11-18 21:00:05" }, "geometry": { "type": "Point", "coordinates": [ 15.9242465, 45.7887923 ] } }
+,
+{ "type": "Feature", "id": 319225899, "properties": { "id": 319225899.0, "version": 17.0, "changeset": 14203075.0, "lat": 45.7865996, "lon": 15.9520696, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-08 17:33:28" }, "geometry": { "type": "Point", "coordinates": [ 15.9520696, 45.7865996 ] } }
+,
+{ "type": "Feature", "id": 410839139, "properties": { "id": 410839139.0, "version": 6.0, "changeset": 3154594.0, "lat": 45.7884764, "lon": 15.9263942, "user": "Matija Nalis", "uid": "52552", "visible": "true", "timestamp": "2009-11-18 21:01:32" }, "geometry": { "type": "Point", "coordinates": [ 15.9263942, 45.7884764 ] } }
+,
+{ "type": "Feature", "id": 410839140, "properties": { "id": 410839140.0, "version": 4.0, "changeset": 1323476.0, "lat": 45.7883074, "lon": 15.9274812, "user": "Aleksandar Topuzović", "uid": "67265", "visible": "true", "timestamp": "2009-05-26 09:13:48" }, "geometry": { "type": "Point", "coordinates": [ 15.9274812, 45.7883074 ] } }
+,
+{ "type": "Feature", "id": 20840634, "properties": { "id": 20840634.0, "version": 5.0, "changeset": 14202592.0, "lat": 45.7931933, "lon": 15.9019245, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-08 16:55:31" }, "geometry": { "type": "Point", "coordinates": [ 15.9019245, 45.7931933 ] } }
+,
+{ "type": "Feature", "id": 410839141, "properties": { "id": 410839141.0, "version": 5.0, "changeset": 14203075.0, "lat": 45.7881202, "lon": 15.9285293, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-08 17:33:28" }, "geometry": { "type": "Point", "coordinates": [ 15.9285293, 45.7881202 ] } }
+,
+{ "type": "Feature", "id": 410836801, "properties": { "id": 410836801.0, "version": 7.0, "changeset": 14202592.0, "lat": 45.7912872, "lon": 15.9165938, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-08 16:55:33" }, "geometry": { "type": "Point", "coordinates": [ 15.9165938, 45.7912872 ] } }
+,
+{ "type": "Feature", "id": 319473897, "properties": { "id": 319473897.0, "version": 8.0, "changeset": 14202592.0, "lat": 45.7916507, "lon": 15.9146792, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-08 16:55:32" }, "geometry": { "type": "Point", "coordinates": [ 15.9146792, 45.7916507 ] } }
+,
+{ "type": "Feature", "id": 319473913, "properties": { "id": 319473913.0, "version": 6.0, "changeset": 7103619.0, "lat": 45.7935698, "lon": 15.8918194, "user": "Janjko", "uid": "244754", "visible": "true", "timestamp": "2011-01-27 13:32:46" }, "geometry": { "type": "Point", "coordinates": [ 15.8918194, 45.7935698 ] } }
+,
+{ "type": "Feature", "id": 319473888, "properties": { "id": 319473888.0, "version": 6.0, "changeset": 1323476.0, "lat": 45.7872567, "lon": 15.9323805, "user": "Aleksandar Topuzović", "uid": "67265", "visible": "true", "timestamp": "2009-05-26 09:13:47" }, "geometry": { "type": "Point", "coordinates": [ 15.9323805, 45.7872567 ] } }
+,
+{ "type": "Feature", "id": 319473902, "properties": { "id": 319473902.0, "version": 6.0, "changeset": 14202592.0, "lat": 45.792768, "lon": 15.9035378, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-08 16:55:32" }, "geometry": { "type": "Point", "coordinates": [ 15.9035378, 45.792768 ] } }
+,
+{ "type": "Feature", "id": 319473910, "properties": { "id": 319473910.0, "version": 8.0, "changeset": 14202592.0, "lat": 45.7946133, "lon": 15.8949249, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-08 16:55:33" }, "geometry": { "type": "Point", "coordinates": [ 15.8949249, 45.7946133 ] } }
+,
+{ "type": "Feature", "id": 410839098, "properties": { "id": 410839098.0, "version": 7.0, "changeset": 14202592.0, "lat": 45.7904753, "lon": 15.9187534, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-08 16:55:33" }, "geometry": { "type": "Point", "coordinates": [ 15.9187534, 45.7904753 ] } }
+,
+{ "type": "Feature", "id": 319473878, "properties": { "id": 319473878.0, "version": 6.0, "changeset": 14203075.0, "lat": 45.7864462, "lon": 15.9487189, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-08 17:33:28" }, "geometry": { "type": "Point", "coordinates": [ 15.9487189, 45.7864462 ] } }
+,
+{ "type": "Feature", "id": 410839148, "properties": { "id": 410839148.0, "version": 10.0, "changeset": 14203075.0, "lat": 45.7881359, "lon": 15.9455928, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-08 17:33:28" }, "geometry": { "type": "Point", "coordinates": [ 15.9455928, 45.7881359 ] } }
+,
+{ "type": "Feature", "id": 319473908, "properties": { "id": 319473908.0, "version": 8.0, "changeset": 14202592.0, "lat": 45.794647, "lon": 15.8965866, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-08 16:55:33" }, "geometry": { "type": "Point", "coordinates": [ 15.8965866, 45.794647 ] } }
+,
+{ "type": "Feature", "id": 1123379840, "properties": { "id": 1123379840.0, "version": 3.0, "changeset": 14202592.0, "lat": 45.7944744, "lon": 15.8938488, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-08 16:55:32" }, "geometry": { "type": "Point", "coordinates": [ 15.8938488, 45.7944744 ] } }
+,
+{ "type": "Feature", "id": 319473911, "properties": { "id": 319473911.0, "version": 8.0, "changeset": 14202592.0, "lat": 45.7941099, "lon": 15.8922323, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-08 16:55:33" }, "geometry": { "type": "Point", "coordinates": [ 15.8922323, 45.7941099 ] } }
+,
+{ "type": "Feature", "id": 553411064, "properties": { "id": 553411064.0, "version": 4.0, "changeset": 3154594.0, "lat": 45.7872663, "lon": 15.9327782, "user": "Matija Nalis", "uid": "52552", "visible": "true", "timestamp": "2009-11-18 21:05:12" }, "geometry": { "type": "Point", "coordinates": [ 15.9327782, 45.7872663 ] } }
+,
+{ "type": "Feature", "id": 554141850, "properties": { "id": 554141850.0, "version": 1.0, "changeset": 3030591.0, "lat": 45.7872802, "lon": 15.9330105, "user": "sanela planinčević", "uid": "87707", "visible": "true", "timestamp": "2009-11-04 07:18:10" }, "geometry": { "type": "Point", "coordinates": [ 15.9330105, 45.7872802 ] } }
+,
+{ "type": "Feature", "id": 735155338, "properties": { "id": 735155338.0, "version": 1.0, "changeset": 4707784.0, "lat": 45.7881912, "lon": 15.9395989, "user": "SilverSpace", "uid": "176920", "visible": "true", "timestamp": "2010-05-15 16:11:30" }, "geometry": { "type": "Point", "coordinates": [ 15.9395989, 45.7881912 ] } }
+,
+{ "type": "Feature", "id": 905167921, "properties": { "id": 905167921.0, "version": 3.0, "changeset": 11149715.0, "lat": 45.7953697, "lon": 15.9594658, "user": "Janjko", "uid": "244754", "visible": "true", "timestamp": "2012-03-30 09:40:38" }, "geometry": { "type": "Point", "coordinates": [ 15.9594658, 45.7953697 ] } }
+,
+{ "type": "Feature", "id": 2147483647, "properties": { "id": 2286941502.0, "version": 1.0, "changeset": 15923567.0, "lat": 45.799695, "lon": 15.9681659, "user": "Fiki", "uid": "493209", "visible": "true", "timestamp": "2013-04-30 17:19:04" }, "geometry": { "type": "Point", "coordinates": [ 15.9681659, 45.799695 ] } }
+,
+{ "type": "Feature", "id": 21284607, "properties": { "id": 21284607.0, "version": 11.0, "changeset": 15923567.0, "lat": 45.7999945, "lon": 15.9739536, "user": "Fiki", "uid": "493209", "visible": "true", "timestamp": "2013-04-30 17:22:20" }, "geometry": { "type": "Point", "coordinates": [ 15.9739536, 45.7999945 ] } }
+,
+{ "type": "Feature", "id": 1448524161, "properties": { "id": 1448524161.0, "version": 4.0, "changeset": 15923567.0, "lat": 45.7998022, "lon": 15.9702691, "user": "Fiki", "uid": "493209", "visible": "true", "timestamp": "2013-04-30 17:22:47" }, "geometry": { "type": "Point", "coordinates": [ 15.9702691, 45.7998022 ] } }
+,
+{ "type": "Feature", "id": 1716986062, "properties": { "id": 1716986062.0, "version": 2.0, "changeset": 15923567.0, "lat": 45.7997746, "lon": 15.9692955, "user": "Fiki", "uid": "493209", "visible": "true", "timestamp": "2013-04-30 17:23:35" }, "geometry": { "type": "Point", "coordinates": [ 15.9692955, 45.7997746 ] } }
+,
+{ "type": "Feature", "id": 1716986067, "properties": { "id": 1716986067.0, "version": 2.0, "changeset": 15923567.0, "lat": 45.7998057, "lon": 15.9698768, "user": "Fiki", "uid": "493209", "visible": "true", "timestamp": "2013-04-30 17:23:35" }, "geometry": { "type": "Point", "coordinates": [ 15.9698768, 45.7998057 ] } }
+,
+{ "type": "Feature", "id": 1716986076, "properties": { "id": 1716986076.0, "version": 2.0, "changeset": 15923567.0, "lat": 45.8000307, "lon": 15.9742989, "user": "Fiki", "uid": "493209", "visible": "true", "timestamp": "2013-04-30 17:23:36" }, "geometry": { "type": "Point", "coordinates": [ 15.9742989, 45.8000307 ] } }
+,
+{ "type": "Feature", "id": 1716986094, "properties": { "id": 1716986094.0, "version": 2.0, "changeset": 15923567.0, "lat": 45.8002499, "lon": 15.9784775, "user": "Fiki", "uid": "493209", "visible": "true", "timestamp": "2013-04-30 17:23:37" }, "geometry": { "type": "Point", "coordinates": [ 15.9784775, 45.8002499 ] } }
+,
+{ "type": "Feature", "id": 1716986075, "properties": { "id": 1716986075.0, "version": 2.0, "changeset": 15923567.0, "lat": 45.7999893, "lon": 15.9735329, "user": "Fiki", "uid": "493209", "visible": "true", "timestamp": "2013-04-30 17:23:36" }, "geometry": { "type": "Point", "coordinates": [ 15.9735329, 45.7999893 ] } }
+,
+{ "type": "Feature", "id": 1457131459, "properties": { "id": 1457131459.0, "version": 4.0, "changeset": 15932856.0, "lat": 45.7996862, "lon": 15.9679315, "user": "Fiki", "uid": "493209", "visible": "true", "timestamp": "2013-05-01 12:32:58" }, "geometry": { "type": "Point", "coordinates": [ 15.9679315, 45.7996862 ] } }
+,
+{ "type": "Feature", "id": 338438345, "properties": { "id": 338438345.0, "version": 11.0, "changeset": 14244312.0, "lat": 45.8142408, "lon": 15.9966503, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-11 23:09:03" }, "geometry": { "type": "Point", "coordinates": [ 15.9966503, 45.8142408 ] } }
+,
+{ "type": "Feature", "id": 1618309994, "properties": { "id": 1618309994.0, "version": 1.0, "changeset": 10589637.0, "lat": 45.81227, "lon": 15.9949281, "user": "Janjko", "uid": "244754", "visible": "true", "timestamp": "2012-02-04 23:42:11" }, "geometry": { "type": "Point", "coordinates": [ 15.9949281, 45.81227 ] } }
+,
+{ "type": "Feature", "id": 1618309996, "properties": { "id": 1618309996.0, "version": 1.0, "changeset": 10589637.0, "lat": 45.8124038, "lon": 15.9950444, "user": "Janjko", "uid": "244754", "visible": "true", "timestamp": "2012-02-04 23:42:11" }, "geometry": { "type": "Point", "coordinates": [ 15.9950444, 45.8124038 ] } }
+,
+{ "type": "Feature", "id": 1149045451, "properties": { "id": 1149045451.0, "version": 3.0, "changeset": 10488816.0, "lat": 45.7931008, "lon": 15.9579362, "user": "Janjko", "uid": "244754", "visible": "true", "timestamp": "2012-01-24 21:34:13" }, "geometry": { "type": "Point", "coordinates": [ 15.9579362, 45.7931008 ] } }
+,
+{ "type": "Feature", "id": 882521878, "properties": { "id": 882521878.0, "version": 6.0, "changeset": 14228377.0, "lat": 45.8008076, "lon": 15.9896146, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-10 16:59:09" }, "geometry": { "type": "Point", "coordinates": [ 15.9896146, 45.8008076 ] } }
+,
+{ "type": "Feature", "id": 321229579, "properties": { "id": 321229579.0, "version": 18.0, "changeset": 14260532.0, "lat": 45.8147023, "lon": 15.9964306, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-13 14:14:28" }, "geometry": { "type": "Point", "coordinates": [ 15.9964306, 45.8147023 ] } }
+,
+{ "type": "Feature", "id": 1620267075, "properties": { "id": 1620267075.0, "version": 2.0, "changeset": 14242588.0, "lat": 45.803647, "lon": 15.9939535, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-11 20:28:37" }, "geometry": { "type": "Point", "coordinates": [ 15.9939535, 45.803647 ] } }
+,
+{ "type": "Feature", "id": 1448495512, "properties": { "id": 1448495512.0, "version": 1.0, "changeset": 9423421.0, "lat": 45.815835, "lon": 16.0002228, "user": "Janjko", "uid": "244754", "visible": "true", "timestamp": "2011-09-28 21:39:18" }, "geometry": { "type": "Point", "coordinates": [ 16.0002228, 45.815835 ] } }
+,
+{ "type": "Feature", "id": 1449125353, "properties": { "id": 1449125353.0, "version": 3.0, "changeset": 14229425.0, "lat": 45.7876615, "lon": 15.9343773, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-10 18:36:50" }, "geometry": { "type": "Point", "coordinates": [ 15.9343773, 45.7876615 ] } }
+,
+{ "type": "Feature", "id": 1449181370, "properties": { "id": 1449181370.0, "version": 2.0, "changeset": 14202592.0, "lat": 45.7945036, "lon": 15.8940749, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-08 16:55:32" }, "geometry": { "type": "Point", "coordinates": [ 15.8940749, 45.7945036 ] } }
+,
+{ "type": "Feature", "id": 1449183622, "properties": { "id": 1449183622.0, "version": 1.0, "changeset": 9431593.0, "lat": 45.7881502, "lon": 15.9369727, "user": "Janjko", "uid": "244754", "visible": "true", "timestamp": "2011-09-29 22:45:31" }, "geometry": { "type": "Point", "coordinates": [ 15.9369727, 45.7881502 ] } }
+,
+{ "type": "Feature", "id": 1449183623, "properties": { "id": 1449183623.0, "version": 1.0, "changeset": 9431593.0, "lat": 45.788154, "lon": 15.9373894, "user": "Janjko", "uid": "244754", "visible": "true", "timestamp": "2011-09-29 22:45:31" }, "geometry": { "type": "Point", "coordinates": [ 15.9373894, 45.788154 ] } }
+,
+{ "type": "Feature", "id": 1449183624, "properties": { "id": 1449183624.0, "version": 1.0, "changeset": 9431593.0, "lat": 45.7881871, "lon": 15.941503, "user": "Janjko", "uid": "244754", "visible": "true", "timestamp": "2011-09-29 22:45:31" }, "geometry": { "type": "Point", "coordinates": [ 15.941503, 45.7881871 ] } }
+,
+{ "type": "Feature", "id": 1449183625, "properties": { "id": 1449183625.0, "version": 1.0, "changeset": 9431593.0, "lat": 45.7881882, "lon": 15.940995, "user": "Janjko", "uid": "244754", "visible": "true", "timestamp": "2011-09-29 22:45:31" }, "geometry": { "type": "Point", "coordinates": [ 15.940995, 45.7881882 ] } }
+,
+{ "type": "Feature", "id": 1449183637, "properties": { "id": 1449183637.0, "version": 1.0, "changeset": 9431593.0, "lat": 45.7889512, "lon": 15.9231312, "user": "Janjko", "uid": "244754", "visible": "true", "timestamp": "2011-09-29 22:45:32" }, "geometry": { "type": "Point", "coordinates": [ 15.9231312, 45.7889512 ] } }
+,
+{ "type": "Feature", "id": 1449186963, "properties": { "id": 1449186963.0, "version": 2.0, "changeset": 14202592.0, "lat": 45.7917078, "lon": 15.9141206, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-08 16:55:32" }, "geometry": { "type": "Point", "coordinates": [ 15.9141206, 45.7917078 ] } }
+,
+{ "type": "Feature", "id": 1449189047, "properties": { "id": 1449189047.0, "version": 1.0, "changeset": 9431656.0, "lat": 45.7875811, "lon": 15.9340893, "user": "Janjko", "uid": "244754", "visible": "true", "timestamp": "2011-09-29 23:02:59" }, "geometry": { "type": "Point", "coordinates": [ 15.9340893, 45.7875811 ] } }
+,
+{ "type": "Feature", "id": 1449189051, "properties": { "id": 1449189051.0, "version": 1.0, "changeset": 9431656.0, "lat": 45.7877214, "lon": 15.9345918, "user": "Janjko", "uid": "244754", "visible": "true", "timestamp": "2011-09-29 23:02:59" }, "geometry": { "type": "Point", "coordinates": [ 15.9345918, 45.7877214 ] } }
+,
+{ "type": "Feature", "id": 1347140126, "properties": { "id": 1347140126.0, "version": 2.0, "changeset": 11316887.0, "lat": 45.8010868, "lon": 15.9950945, "user": "dplehati", "uid": "582434", "visible": "true", "timestamp": "2012-04-15 22:47:20" }, "geometry": { "type": "Point", "coordinates": [ 15.9950945, 45.8010868 ] } }
+,
+{ "type": "Feature", "id": 1449369960, "properties": { "id": 1449369960.0, "version": 5.0, "changeset": 15923567.0, "lat": 45.800007, "lon": 15.974301, "user": "Fiki", "uid": "493209", "visible": "true", "timestamp": "2013-04-30 17:22:51" }, "geometry": { "type": "Point", "coordinates": [ 15.974301, 45.800007 ] } }
+,
+{ "type": "Feature", "id": 1457124006, "properties": { "id": 1457124006.0, "version": 3.0, "changeset": 15923567.0, "lat": 45.8002198, "lon": 15.978476, "user": "Fiki", "uid": "493209", "visible": "true", "timestamp": "2013-04-30 17:22:55" }, "geometry": { "type": "Point", "coordinates": [ 15.978476, 45.8002198 ] } }
+,
+{ "type": "Feature", "id": 1457124008, "properties": { "id": 1457124008.0, "version": 4.0, "changeset": 15923567.0, "lat": 45.8002256, "lon": 15.9786, "user": "Fiki", "uid": "493209", "visible": "true", "timestamp": "2013-04-30 17:22:55" }, "geometry": { "type": "Point", "coordinates": [ 15.9786, 45.8002256 ] } }
+,
+{ "type": "Feature", "id": 1457124009, "properties": { "id": 1457124009.0, "version": 4.0, "changeset": 15923567.0, "lat": 45.8002671, "lon": 15.9795143, "user": "Fiki", "uid": "493209", "visible": "true", "timestamp": "2013-04-30 17:22:56" }, "geometry": { "type": "Point", "coordinates": [ 15.9795143, 45.8002671 ] } }
+,
+{ "type": "Feature", "id": 1457124010, "properties": { "id": 1457124010.0, "version": 4.0, "changeset": 15923567.0, "lat": 45.8002632, "lon": 15.979395, "user": "Fiki", "uid": "493209", "visible": "true", "timestamp": "2013-04-30 17:22:56" }, "geometry": { "type": "Point", "coordinates": [ 15.979395, 45.8002632 ] } }
+,
+{ "type": "Feature", "id": 1625369720, "properties": { "id": 1625369720.0, "version": 1.0, "changeset": 10634432.0, "lat": 45.7966813, "lon": 15.9602847, "user": "Janjko", "uid": "244754", "visible": "true", "timestamp": "2012-02-09 14:38:33" }, "geometry": { "type": "Point", "coordinates": [ 15.9602847, 45.7966813 ] } }
+,
+{ "type": "Feature", "id": 1625369726, "properties": { "id": 1625369726.0, "version": 1.0, "changeset": 10634432.0, "lat": 45.7968837, "lon": 15.9604367, "user": "Janjko", "uid": "244754", "visible": "true", "timestamp": "2012-02-09 14:38:33" }, "geometry": { "type": "Point", "coordinates": [ 15.9604367, 45.7968837 ] } }
+,
+{ "type": "Feature", "id": 1487141744, "properties": { "id": 1487141744.0, "version": 1.0, "changeset": 9702627.0, "lat": 45.786834, "lon": 15.9528192, "user": "Janjko", "uid": "244754", "visible": "true", "timestamp": "2011-10-31 11:43:25" }, "geometry": { "type": "Point", "coordinates": [ 15.9528192, 45.786834 ] } }
+,
+{ "type": "Feature", "id": 1544929220, "properties": { "id": 1544929220.0, "version": 2.0, "changeset": 11140050.0, "lat": 45.7926026, "lon": 15.9575647, "user": "Janjko", "uid": "244754", "visible": "true", "timestamp": "2012-03-29 15:25:36" }, "geometry": { "type": "Point", "coordinates": [ 15.9575647, 45.7926026 ] } }
+,
+{ "type": "Feature", "id": 1544965910, "properties": { "id": 1544965910.0, "version": 1.0, "changeset": 10111561.0, "lat": 45.7876255, "lon": 15.9541536, "user": "Janjko", "uid": "244754", "visible": "true", "timestamp": "2011-12-13 21:54:39" }, "geometry": { "type": "Point", "coordinates": [ 15.9541536, 45.7876255 ] } }
+,
+{ "type": "Feature", "id": 1544965942, "properties": { "id": 1544965942.0, "version": 1.0, "changeset": 10111561.0, "lat": 45.7891694, "lon": 15.9551984, "user": "Janjko", "uid": "244754", "visible": "true", "timestamp": "2011-12-13 21:54:40" }, "geometry": { "type": "Point", "coordinates": [ 15.9551984, 45.7891694 ] } }
+,
+{ "type": "Feature", "id": 1544965946, "properties": { "id": 1544965946.0, "version": 1.0, "changeset": 10111561.0, "lat": 45.7895831, "lon": 15.9554772, "user": "Janjko", "uid": "244754", "visible": "true", "timestamp": "2011-12-13 21:54:40" }, "geometry": { "type": "Point", "coordinates": [ 15.9554772, 45.7895831 ] } }
+,
+{ "type": "Feature", "id": 1544965990, "properties": { "id": 1544965990.0, "version": 3.0, "changeset": 12104397.0, "lat": 45.7909301, "lon": 15.9564513, "user": "Valent Turkovic", "uid": "55724", "visible": "true", "timestamp": "2012-07-03 20:37:29" }, "geometry": { "type": "Point", "coordinates": [ 15.9564513, 45.7909301 ] } }
+,
+{ "type": "Feature", "id": 1544965996, "properties": { "id": 1544965996.0, "version": 3.0, "changeset": 12104397.0, "lat": 45.7910177, "lon": 15.956512, "user": "Valent Turkovic", "uid": "55724", "visible": "true", "timestamp": "2012-07-03 20:37:29" }, "geometry": { "type": "Point", "coordinates": [ 15.956512, 45.7910177 ] } }
+,
+{ "type": "Feature", "id": 1545162937, "properties": { "id": 1545162937.0, "version": 2.0, "changeset": 14202592.0, "lat": 45.7925119, "lon": 15.9062262, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-08 16:55:32" }, "geometry": { "type": "Point", "coordinates": [ 15.9062262, 45.7925119 ] } }
+,
+{ "type": "Feature", "id": 1552596130, "properties": { "id": 1552596130.0, "version": 5.0, "changeset": 12104397.0, "lat": 45.7965927, "lon": 15.960321, "user": "Valent Turkovic", "uid": "55724", "visible": "true", "timestamp": "2012-07-03 20:37:29" }, "geometry": { "type": "Point", "coordinates": [ 15.960321, 45.7965927 ] } }
+,
+{ "type": "Feature", "id": 1552617205, "properties": { "id": 1552617205.0, "version": 3.0, "changeset": 12104397.0, "lat": 45.7957457, "lon": 15.9597287, "user": "Valent Turkovic", "uid": "55724", "visible": "true", "timestamp": "2012-07-03 20:37:29" }, "geometry": { "type": "Point", "coordinates": [ 15.9597287, 45.7957457 ] } }
+,
+{ "type": "Feature", "id": 319523599, "properties": { "id": 319523599.0, "version": 42.0, "changeset": 13889048.0, "lat": 45.8161322, "lon": 16.0015182, "user": "Janjko", "uid": "244754", "visible": "true", "timestamp": "2012-11-15 23:19:56" }, "geometry": { "type": "Point", "coordinates": [ 16.0015182, 45.8161322 ] } }
+,
+{ "type": "Feature", "id": 1559982451, "properties": { "id": 1559982451.0, "version": 1.0, "changeset": 10191295.0, "lat": 45.8154114, "lon": 15.9983708, "user": "Janjko", "uid": "244754", "visible": "true", "timestamp": "2011-12-24 00:46:11" }, "geometry": { "type": "Point", "coordinates": [ 15.9983708, 45.8154114 ] } }
+,
+{ "type": "Feature", "id": 688008982, "properties": { "id": 688008982.0, "version": 3.0, "changeset": 10212213.0, "lat": 45.8171402, "lon": 16.0058791, "user": "Janjko", "uid": "244754", "visible": "true", "timestamp": "2011-12-27 00:43:28" }, "geometry": { "type": "Point", "coordinates": [ 16.0058791, 45.8171402 ] } }
+,
+{ "type": "Feature", "id": 1567943025, "properties": { "id": 1567943025.0, "version": 1.0, "changeset": 10238295.0, "lat": 45.7926173, "lon": 15.9053224, "user": "nikss", "uid": "480348", "visible": "true", "timestamp": "2011-12-29 18:33:57" }, "geometry": { "type": "Point", "coordinates": [ 15.9053224, 45.7926173 ] } }
+,
+{ "type": "Feature", "id": 1567943026, "properties": { "id": 1567943026.0, "version": 1.0, "changeset": 10238295.0, "lat": 45.7917819, "lon": 15.9135976, "user": "nikss", "uid": "480348", "visible": "true", "timestamp": "2011-12-29 18:33:57" }, "geometry": { "type": "Point", "coordinates": [ 15.9135976, 45.7917819 ] } }
+,
+{ "type": "Feature", "id": 1567943043, "properties": { "id": 1567943043.0, "version": 1.0, "changeset": 10238295.0, "lat": 45.7918636, "lon": 15.9128271, "user": "nikss", "uid": "480348", "visible": "true", "timestamp": "2011-12-29 18:33:58" }, "geometry": { "type": "Point", "coordinates": [ 15.9128271, 45.7918636 ] } }
+,
+{ "type": "Feature", "id": 1567943045, "properties": { "id": 1567943045.0, "version": 1.0, "changeset": 10238295.0, "lat": 45.7925529, "lon": 15.9060094, "user": "nikss", "uid": "480348", "visible": "true", "timestamp": "2011-12-29 18:33:58" }, "geometry": { "type": "Point", "coordinates": [ 15.9060094, 45.7925529 ] } }
+,
+{ "type": "Feature", "id": 1574378227, "properties": { "id": 1574378227.0, "version": 1.0, "changeset": 10273491.0, "lat": 45.7881938, "lon": 15.9373882, "user": "nikss", "uid": "480348", "visible": "true", "timestamp": "2012-01-02 17:51:33" }, "geometry": { "type": "Point", "coordinates": [ 15.9373882, 45.7881938 ] } }
+,
+{ "type": "Feature", "id": 1574378234, "properties": { "id": 1574378234.0, "version": 1.0, "changeset": 10273491.0, "lat": 45.7882182, "lon": 15.9409942, "user": "nikss", "uid": "480348", "visible": "true", "timestamp": "2012-01-02 17:51:33" }, "geometry": { "type": "Point", "coordinates": [ 15.9409942, 45.7882182 ] } }
+,
+{ "type": "Feature", "id": 1574378260, "properties": { "id": 1574378260.0, "version": 1.0, "changeset": 10273491.0, "lat": 45.788196, "lon": 15.9381715, "user": "nikss", "uid": "480348", "visible": "true", "timestamp": "2012-01-02 17:51:33" }, "geometry": { "type": "Point", "coordinates": [ 15.9381715, 45.788196 ] } }
+,
+{ "type": "Feature", "id": 1574378263, "properties": { "id": 1574378263.0, "version": 1.0, "changeset": 10273491.0, "lat": 45.7882203, "lon": 15.9403575, "user": "nikss", "uid": "480348", "visible": "true", "timestamp": "2012-01-02 17:51:34" }, "geometry": { "type": "Point", "coordinates": [ 15.9403575, 45.7882203 ] } }
+,
+{ "type": "Feature", "id": 1574378302, "properties": { "id": 1574378302.0, "version": 1.0, "changeset": 10273491.0, "lat": 45.7881789, "lon": 15.9448726, "user": "nikss", "uid": "480348", "visible": "true", "timestamp": "2012-01-02 17:51:34" }, "geometry": { "type": "Point", "coordinates": [ 15.9448726, 45.7881789 ] } }
+,
+{ "type": "Feature", "id": 1574378310, "properties": { "id": 1574378310.0, "version": 1.0, "changeset": 10273491.0, "lat": 45.7881726, "lon": 15.9455751, "user": "nikss", "uid": "480348", "visible": "true", "timestamp": "2012-01-02 17:51:34" }, "geometry": { "type": "Point", "coordinates": [ 15.9455751, 45.7881726 ] } }
+,
+{ "type": "Feature", "id": 1696292071, "properties": { "id": 1696292071.0, "version": 2.0, "changeset": 13912313.0, "lat": 45.7883678, "lon": 15.9546743, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-11-17 22:56:24" }, "geometry": { "type": "Point", "coordinates": [ 15.9546743, 45.7883678 ] } }
+,
+{ "type": "Feature", "id": 1149037703, "properties": { "id": 1149037703.0, "version": 3.0, "changeset": 11140050.0, "lat": 45.793024, "lon": 15.9578823, "user": "Janjko", "uid": "244754", "visible": "true", "timestamp": "2012-03-29 15:25:36" }, "geometry": { "type": "Point", "coordinates": [ 15.9578823, 45.793024 ] } }
+,
+{ "type": "Feature", "id": 617744848, "properties": { "id": 617744848.0, "version": 8.0, "changeset": 14228807.0, "lat": 45.7945317, "lon": 15.9589396, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-10 17:40:36" }, "geometry": { "type": "Point", "coordinates": [ 15.9589396, 45.7945317 ] } }
+,
+{ "type": "Feature", "id": 905167914, "properties": { "id": 905167914.0, "version": 12.0, "changeset": 14391416.0, "lat": 45.7941209, "lon": 15.9586882, "user": "nemam ime", "uid": "602941", "visible": "true", "timestamp": "2012-12-24 15:10:49" }, "geometry": { "type": "Point", "coordinates": [ 15.9586882, 45.7941209 ] } }
+,
+{ "type": "Feature", "id": 1603960938, "properties": { "id": 1603960938.0, "version": 6.0, "changeset": 11174690.0, "lat": 45.799307, "lon": 15.9621461, "user": "Janjko", "uid": "244754", "visible": "true", "timestamp": "2012-04-04 10:33:05" }, "geometry": { "type": "Point", "coordinates": [ 15.9621461, 45.799307 ] } }
+,
+{ "type": "Feature", "id": 410839103, "properties": { "id": 410839103.0, "version": 6.0, "changeset": 11183281.0, "lat": 45.789336, "lon": 15.9213321, "user": "dplehati", "uid": "582434", "visible": "true", "timestamp": "2012-04-04 22:51:01" }, "geometry": { "type": "Point", "coordinates": [ 15.9213321, 45.789336 ] } }
+,
+{ "type": "Feature", "id": 1567943028, "properties": { "id": 1567943028.0, "version": 4.0, "changeset": 14202592.0, "lat": 45.7917915, "lon": 15.9132844, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-08 16:55:31" }, "geometry": { "type": "Point", "coordinates": [ 15.9132844, 45.7917915 ] } }
+,
+{ "type": "Feature", "id": 410887480, "properties": { "id": 410887480.0, "version": 8.0, "changeset": 14202592.0, "lat": 45.794289, "lon": 15.8986883, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-08 16:55:32" }, "geometry": { "type": "Point", "coordinates": [ 15.8986883, 45.794289 ] } }
+,
+{ "type": "Feature", "id": 20840371, "properties": { "id": 20840371.0, "version": 7.0, "changeset": 14203075.0, "lat": 45.7877822, "lon": 15.9300748, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-08 17:33:28" }, "geometry": { "type": "Point", "coordinates": [ 15.9300748, 45.7877822 ] } }
+,
+{ "type": "Feature", "id": 410839146, "properties": { "id": 410839146.0, "version": 5.0, "changeset": 14203075.0, "lat": 45.7879388, "lon": 15.9293861, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-08 17:33:28" }, "geometry": { "type": "Point", "coordinates": [ 15.9293861, 45.7879388 ] } }
+,
+{ "type": "Feature", "id": 1449183611, "properties": { "id": 1449183611.0, "version": 3.0, "changeset": 11215285.0, "lat": 45.7877958, "lon": 15.9299895, "user": "dplehati", "uid": "582434", "visible": "true", "timestamp": "2012-04-07 15:22:33" }, "geometry": { "type": "Point", "coordinates": [ 15.9299895, 45.7877958 ] } }
+,
+{ "type": "Feature", "id": 20840298, "properties": { "id": 20840298.0, "version": 8.0, "changeset": 11215285.0, "lat": 45.7878946, "lon": 15.9295829, "user": "dplehati", "uid": "582434", "visible": "true", "timestamp": "2012-04-07 15:22:34" }, "geometry": { "type": "Point", "coordinates": [ 15.9295829, 45.7878946 ] } }
+,
+{ "type": "Feature", "id": 1705094606, "properties": { "id": 1705094606.0, "version": 1.0, "changeset": 11207068.0, "lat": 45.8076515, "lon": 15.9917189, "user": "nikss", "uid": "480348", "visible": "true", "timestamp": "2012-04-06 20:58:52" }, "geometry": { "type": "Point", "coordinates": [ 15.9917189, 45.8076515 ] } }
+,
+{ "type": "Feature", "id": 1705094611, "properties": { "id": 1705094611.0, "version": 1.0, "changeset": 11207068.0, "lat": 45.8079282, "lon": 15.9916948, "user": "nikss", "uid": "480348", "visible": "true", "timestamp": "2012-04-06 20:58:52" }, "geometry": { "type": "Point", "coordinates": [ 15.9916948, 45.8079282 ] } }
+,
+{ "type": "Feature", "id": 1705948717, "properties": { "id": 1705948717.0, "version": 1.0, "changeset": 11215285.0, "lat": 45.787713, "lon": 15.9304642, "user": "dplehati", "uid": "582434", "visible": "true", "timestamp": "2012-04-07 15:22:21" }, "geometry": { "type": "Point", "coordinates": [ 15.9304642, 45.787713 ] } }
+,
+{ "type": "Feature", "id": 1705948725, "properties": { "id": 1705948725.0, "version": 1.0, "changeset": 11215285.0, "lat": 45.7878297, "lon": 15.93001, "user": "dplehati", "uid": "582434", "visible": "true", "timestamp": "2012-04-07 15:22:21" }, "geometry": { "type": "Point", "coordinates": [ 15.93001, 45.7878297 ] } }
+,
+{ "type": "Feature", "id": 1705948769, "properties": { "id": 1705948769.0, "version": 1.0, "changeset": 11215285.0, "lat": 45.7897836, "lon": 15.9203936, "user": "dplehati", "uid": "582434", "visible": "true", "timestamp": "2012-04-07 15:22:22" }, "geometry": { "type": "Point", "coordinates": [ 15.9203936, 45.7897836 ] } }
+,
+{ "type": "Feature", "id": 1705948778, "properties": { "id": 1705948778.0, "version": 1.0, "changeset": 11215285.0, "lat": 45.7931222, "lon": 15.9022763, "user": "dplehati", "uid": "582434", "visible": "true", "timestamp": "2012-04-07 15:22:22" }, "geometry": { "type": "Point", "coordinates": [ 15.9022763, 45.7931222 ] } }
+,
+{ "type": "Feature", "id": 1705948782, "properties": { "id": 1705948782.0, "version": 1.0, "changeset": 11215285.0, "lat": 45.7932307, "lon": 15.9019294, "user": "dplehati", "uid": "582434", "visible": "true", "timestamp": "2012-04-07 15:22:22" }, "geometry": { "type": "Point", "coordinates": [ 15.9019294, 45.7932307 ] } }
+,
+{ "type": "Feature", "id": 1705948789, "properties": { "id": 1705948789.0, "version": 1.0, "changeset": 11215285.0, "lat": 45.794169, "lon": 15.8991664, "user": "dplehati", "uid": "582434", "visible": "true", "timestamp": "2012-04-07 15:22:22" }, "geometry": { "type": "Point", "coordinates": [ 15.8991664, 45.794169 ] } }
+,
+{ "type": "Feature", "id": 1705948843, "properties": { "id": 1705948843.0, "version": 1.0, "changeset": 11215285.0, "lat": 45.7942583, "lon": 15.8926033, "user": "dplehati", "uid": "582434", "visible": "true", "timestamp": "2012-04-07 15:22:23" }, "geometry": { "type": "Point", "coordinates": [ 15.8926033, 45.7942583 ] } }
+,
+{ "type": "Feature", "id": 1705948846, "properties": { "id": 1705948846.0, "version": 1.0, "changeset": 11215285.0, "lat": 45.7943131, "lon": 15.8986871, "user": "dplehati", "uid": "582434", "visible": "true", "timestamp": "2012-04-07 15:22:23" }, "geometry": { "type": "Point", "coordinates": [ 15.8986871, 45.7943131 ] } }
+,
+{ "type": "Feature", "id": 1705948854, "properties": { "id": 1705948854.0, "version": 1.0, "changeset": 11215285.0, "lat": 45.7944544, "lon": 15.8936336, "user": "dplehati", "uid": "582434", "visible": "true", "timestamp": "2012-04-07 15:22:23" }, "geometry": { "type": "Point", "coordinates": [ 15.8936336, 45.7944544 ] } }
+,
+{ "type": "Feature", "id": 1487141754, "properties": { "id": 1487141754.0, "version": 2.0, "changeset": 11216767.0, "lat": 45.7867297, "lon": 15.9523454, "user": "dplehati", "uid": "582434", "visible": "true", "timestamp": "2012-04-07 17:34:11" }, "geometry": { "type": "Point", "coordinates": [ 15.9523454, 45.7867297 ] } }
+,
+{ "type": "Feature", "id": 1449189028, "properties": { "id": 1449189028.0, "version": 4.0, "changeset": 14203075.0, "lat": 45.7864501, "lon": 15.9512968, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-08 17:33:28" }, "geometry": { "type": "Point", "coordinates": [ 15.9512968, 45.7864501 ] } }
+,
+{ "type": "Feature", "id": 1449189039, "properties": { "id": 1449189039.0, "version": 3.0, "changeset": 14203075.0, "lat": 45.7866703, "lon": 15.9523368, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-08 17:33:28" }, "geometry": { "type": "Point", "coordinates": [ 15.9523368, 45.7866703 ] } }
+,
+{ "type": "Feature", "id": 1706117765, "properties": { "id": 1706117765.0, "version": 1.0, "changeset": 11217281.0, "lat": 45.7885258, "lon": 15.9546868, "user": "dplehati", "uid": "582434", "visible": "true", "timestamp": "2012-04-07 18:18:29" }, "geometry": { "type": "Point", "coordinates": [ 15.9546868, 45.7885258 ] } }
+,
+{ "type": "Feature", "id": 1706117767, "properties": { "id": 1706117767.0, "version": 1.0, "changeset": 11217281.0, "lat": 45.7887947, "lon": 15.9548688, "user": "dplehati", "uid": "582434", "visible": "true", "timestamp": "2012-04-07 18:18:29" }, "geometry": { "type": "Point", "coordinates": [ 15.9548688, 45.7887947 ] } }
+,
+{ "type": "Feature", "id": 1706117771, "properties": { "id": 1706117771.0, "version": 1.0, "changeset": 11217281.0, "lat": 45.7904165, "lon": 15.9559721, "user": "dplehati", "uid": "582434", "visible": "true", "timestamp": "2012-04-07 18:18:29" }, "geometry": { "type": "Point", "coordinates": [ 15.9559721, 45.7904165 ] } }
+,
+{ "type": "Feature", "id": 1706117772, "properties": { "id": 1706117772.0, "version": 1.0, "changeset": 11217281.0, "lat": 45.790709, "lon": 15.9561847, "user": "dplehati", "uid": "582434", "visible": "true", "timestamp": "2012-04-07 18:18:29" }, "geometry": { "type": "Point", "coordinates": [ 15.9561847, 45.790709 ] } }
+,
+{ "type": "Feature", "id": 1706117781, "properties": { "id": 1706117781.0, "version": 1.0, "changeset": 11217281.0, "lat": 45.7924304, "lon": 15.9574527, "user": "dplehati", "uid": "582434", "visible": "true", "timestamp": "2012-04-07 18:18:30" }, "geometry": { "type": "Point", "coordinates": [ 15.9574527, 45.7924304 ] } }
+,
+{ "type": "Feature", "id": 1491733853, "properties": { "id": 1491733853.0, "version": 5.0, "changeset": 11217281.0, "lat": 45.7930647, "lon": 15.9579117, "user": "dplehati", "uid": "582434", "visible": "true", "timestamp": "2012-04-07 18:18:44" }, "geometry": { "type": "Point", "coordinates": [ 15.9579117, 45.7930647 ] } }
+,
+{ "type": "Feature", "id": 1544965950, "properties": { "id": 1544965950.0, "version": 2.0, "changeset": 11217281.0, "lat": 45.7899949, "lon": 15.9557644, "user": "dplehati", "uid": "582434", "visible": "true", "timestamp": "2012-04-07 18:18:44" }, "geometry": { "type": "Point", "coordinates": [ 15.9557644, 45.7899949 ] } }
+,
+{ "type": "Feature", "id": 1544965965, "properties": { "id": 1544965965.0, "version": 2.0, "changeset": 11217281.0, "lat": 45.7907691, "lon": 15.9563397, "user": "dplehati", "uid": "582434", "visible": "true", "timestamp": "2012-04-07 18:18:44" }, "geometry": { "type": "Point", "coordinates": [ 15.9563397, 45.7907691 ] } }
+,
+{ "type": "Feature", "id": 1706117762, "properties": { "id": 1706117762.0, "version": 2.0, "changeset": 11232195.0, "lat": 45.7904721, "lon": 15.9561104, "user": "dplehati", "uid": "582434", "visible": "true", "timestamp": "2012-04-09 00:00:14" }, "geometry": { "type": "Point", "coordinates": [ 15.9561104, 45.7904721 ] } }
+,
+{ "type": "Feature", "id": 410882995, "properties": { "id": 410882995.0, "version": 5.0, "changeset": 11232195.0, "lat": 45.7915304, "lon": 15.9568673, "user": "dplehati", "uid": "582434", "visible": "true", "timestamp": "2012-04-09 00:00:14" }, "geometry": { "type": "Point", "coordinates": [ 15.9568673, 45.7915304 ] } }
+,
+{ "type": "Feature", "id": 1544965912, "properties": { "id": 1544965912.0, "version": 5.0, "changeset": 12104397.0, "lat": 45.7884648, "lon": 15.9547216, "user": "Valent Turkovic", "uid": "55724", "visible": "true", "timestamp": "2012-07-03 20:37:29" }, "geometry": { "type": "Point", "coordinates": [ 15.9547216, 45.7884648 ] } }
+,
+{ "type": "Feature", "id": 1544966000, "properties": { "id": 1544966000.0, "version": 3.0, "changeset": 12104397.0, "lat": 45.7911555, "lon": 15.9566075, "user": "Valent Turkovic", "uid": "55724", "visible": "true", "timestamp": "2012-07-03 20:37:29" }, "geometry": { "type": "Point", "coordinates": [ 15.9566075, 45.7911555 ] } }
+,
+{ "type": "Feature", "id": 20840509, "properties": { "id": 20840509.0, "version": 6.0, "changeset": 11232195.0, "lat": 45.7881552, "lon": 15.937524, "user": "dplehati", "uid": "582434", "visible": "true", "timestamp": "2012-04-09 00:00:16" }, "geometry": { "type": "Point", "coordinates": [ 15.937524, 45.7881552 ] } }
+,
+{ "type": "Feature", "id": 410837642, "properties": { "id": 410837642.0, "version": 6.0, "changeset": 14202592.0, "lat": 45.7925713, "lon": 15.905606, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-08 16:55:31" }, "geometry": { "type": "Point", "coordinates": [ 15.905606, 45.7925713 ] } }
+,
+{ "type": "Feature", "id": 319473893, "properties": { "id": 319473893.0, "version": 10.0, "changeset": 14203075.0, "lat": 45.7897381, "lon": 15.920369, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-08 17:33:27" }, "geometry": { "type": "Point", "coordinates": [ 15.920369, 45.7897381 ] } }
+,
+{ "type": "Feature", "id": 410940662, "properties": { "id": 410940662.0, "version": 5.0, "changeset": 11232195.0, "lat": 45.7967516, "lon": 15.9604287, "user": "dplehati", "uid": "582434", "visible": "true", "timestamp": "2012-04-09 00:00:20" }, "geometry": { "type": "Point", "coordinates": [ 15.9604287, 45.7967516 ] } }
+,
+{ "type": "Feature", "id": 410940661, "properties": { "id": 410940661.0, "version": 7.0, "changeset": 11232195.0, "lat": 45.7972593, "lon": 15.9607907, "user": "dplehati", "uid": "582434", "visible": "true", "timestamp": "2012-04-09 00:00:21" }, "geometry": { "type": "Point", "coordinates": [ 15.9607907, 45.7972593 ] } }
+,
+{ "type": "Feature", "id": 1706117763, "properties": { "id": 1706117763.0, "version": 2.0, "changeset": 11232195.0, "lat": 45.788622, "lon": 15.9548367, "user": "dplehati", "uid": "582434", "visible": "true", "timestamp": "2012-04-09 00:00:21" }, "geometry": { "type": "Point", "coordinates": [ 15.9548367, 45.788622 ] } }
+,
+{ "type": "Feature", "id": 1545617364, "properties": { "id": 1545617364.0, "version": 3.0, "changeset": 14203075.0, "lat": 45.7881497, "lon": 15.9449327, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-08 17:33:27" }, "geometry": { "type": "Point", "coordinates": [ 15.9449327, 45.7881497 ] } }
+,
+{ "type": "Feature", "id": 1219149581, "properties": { "id": 1219149581.0, "version": 7.0, "changeset": 14228807.0, "lat": 45.7948706, "lon": 15.9591446, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-10 17:40:35" }, "geometry": { "type": "Point", "coordinates": [ 15.9591446, 45.7948706 ] } }
+,
+{ "type": "Feature", "id": 1574378243, "properties": { "id": 1574378243.0, "version": 3.0, "changeset": 11232310.0, "lat": 45.7881888, "lon": 15.9407398, "user": "dplehati", "uid": "582434", "visible": "true", "timestamp": "2012-04-09 00:32:20" }, "geometry": { "type": "Point", "coordinates": [ 15.9407398, 45.7881888 ] } }
+,
+{ "type": "Feature", "id": 338646138, "properties": { "id": 338646138.0, "version": 8.0, "changeset": 14228377.0, "lat": 45.8010425, "lon": 15.9946828, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-10 16:59:07" }, "geometry": { "type": "Point", "coordinates": [ 15.9946828, 45.8010425 ] } }
+,
+{ "type": "Feature", "id": 1716986078, "properties": { "id": 1716986078.0, "version": 1.0, "changeset": 11304637.0, "lat": 45.8001948, "lon": 15.9772806, "user": "dplehati", "uid": "582434", "visible": "true", "timestamp": "2012-04-14 22:20:56" }, "geometry": { "type": "Point", "coordinates": [ 15.9772806, 45.8001948 ] } }
+,
+{ "type": "Feature", "id": 1716986106, "properties": { "id": 1716986106.0, "version": 1.0, "changeset": 11304637.0, "lat": 45.8005855, "lon": 15.9854634, "user": "dplehati", "uid": "582434", "visible": "true", "timestamp": "2012-04-14 22:20:57" }, "geometry": { "type": "Point", "coordinates": [ 15.9854634, 45.8005855 ] } }
+,
+{ "type": "Feature", "id": 1716986111, "properties": { "id": 1716986111.0, "version": 1.0, "changeset": 11304637.0, "lat": 45.8006217, "lon": 15.9860233, "user": "dplehati", "uid": "582434", "visible": "true", "timestamp": "2012-04-14 22:20:57" }, "geometry": { "type": "Point", "coordinates": [ 15.9860233, 45.8006217 ] } }
+,
+{ "type": "Feature", "id": 1716986125, "properties": { "id": 1716986125.0, "version": 1.0, "changeset": 11304637.0, "lat": 45.8008378, "lon": 15.9896159, "user": "dplehati", "uid": "582434", "visible": "true", "timestamp": "2012-04-14 22:20:57" }, "geometry": { "type": "Point", "coordinates": [ 15.9896159, 45.8008378 ] } }
+,
+{ "type": "Feature", "id": 1716986127, "properties": { "id": 1716986127.0, "version": 1.0, "changeset": 11304637.0, "lat": 45.8008626, "lon": 15.9901365, "user": "dplehati", "uid": "582434", "visible": "true", "timestamp": "2012-04-14 22:20:57" }, "geometry": { "type": "Point", "coordinates": [ 15.9901365, 45.8008626 ] } }
+,
+{ "type": "Feature", "id": 1716986148, "properties": { "id": 1716986148.0, "version": 1.0, "changeset": 11304637.0, "lat": 45.8098732, "lon": 15.9928907, "user": "dplehati", "uid": "582434", "visible": "true", "timestamp": "2012-04-14 22:20:58" }, "geometry": { "type": "Point", "coordinates": [ 15.9928907, 45.8098732 ] } }
+,
+{ "type": "Feature", "id": 1716986162, "properties": { "id": 1716986162.0, "version": 1.0, "changeset": 11304637.0, "lat": 45.8100748, "lon": 15.9930655, "user": "dplehati", "uid": "582434", "visible": "true", "timestamp": "2012-04-14 22:20:58" }, "geometry": { "type": "Point", "coordinates": [ 15.9930655, 45.8100748 ] } }
+,
+{ "type": "Feature", "id": 1716986029, "properties": { "id": 1716986029.0, "version": 2.0, "changeset": 14228377.0, "lat": 45.8005637, "lon": 15.9855865, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-10 16:59:07" }, "geometry": { "type": "Point", "coordinates": [ 15.9855865, 45.8005637 ] } }
+,
+{ "type": "Feature", "id": 1716986130, "properties": { "id": 1716986130.0, "version": 2.0, "changeset": 14228377.0, "lat": 45.8009275, "lon": 15.9922107, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-10 16:59:08" }, "geometry": { "type": "Point", "coordinates": [ 15.9922107, 45.8009275 ] } }
+,
+{ "type": "Feature", "id": 1716986299, "properties": { "id": 1716986299.0, "version": 1.0, "changeset": 11304637.0, "lat": 45.8165668, "lon": 16.0030125, "user": "dplehati", "uid": "582434", "visible": "true", "timestamp": "2012-04-14 22:21:00" }, "geometry": { "type": "Point", "coordinates": [ 16.0030125, 45.8165668 ] } }
+,
+{ "type": "Feature", "id": 1716986301, "properties": { "id": 1716986301.0, "version": 1.0, "changeset": 11304637.0, "lat": 45.8166391, "lon": 16.0033524, "user": "dplehati", "uid": "582434", "visible": "true", "timestamp": "2012-04-14 22:21:00" }, "geometry": { "type": "Point", "coordinates": [ 16.0033524, 45.8166391 ] } }
+,
+{ "type": "Feature", "id": 1716986142, "properties": { "id": 1716986142.0, "version": 2.0, "changeset": 14242588.0, "lat": 45.8062038, "lon": 15.9925553, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-11 20:28:37" }, "geometry": { "type": "Point", "coordinates": [ 15.9925553, 45.8062038 ] } }
+,
+{ "type": "Feature", "id": 1716986311, "properties": { "id": 1716986311.0, "version": 1.0, "changeset": 11304637.0, "lat": 45.8175872, "lon": 16.0075416, "user": "dplehati", "uid": "582434", "visible": "true", "timestamp": "2012-04-14 22:21:00" }, "geometry": { "type": "Point", "coordinates": [ 16.0075416, 45.8175872 ] } }
+,
+{ "type": "Feature", "id": 1716986315, "properties": { "id": 1716986315.0, "version": 1.0, "changeset": 11304637.0, "lat": 45.8176941, "lon": 16.007975, "user": "dplehati", "uid": "582434", "visible": "true", "timestamp": "2012-04-14 22:21:01" }, "geometry": { "type": "Point", "coordinates": [ 16.007975, 45.8176941 ] } }
+,
+{ "type": "Feature", "id": 410860452, "properties": { "id": 410860452.0, "version": 6.0, "changeset": 15923567.0, "lat": 45.8001738, "lon": 15.9777695, "user": "Fiki", "uid": "493209", "visible": "true", "timestamp": "2013-04-30 17:22:19" }, "geometry": { "type": "Point", "coordinates": [ 15.9777695, 45.8001738 ] } }
+,
+{ "type": "Feature", "id": 21284355, "properties": { "id": 21284355.0, "version": 9.0, "changeset": 15923567.0, "lat": 45.7997567, "lon": 15.9693343, "user": "Fiki", "uid": "493209", "visible": "true", "timestamp": "2013-04-30 17:22:23" }, "geometry": { "type": "Point", "coordinates": [ 15.9693343, 45.7997567 ] } }
+,
+{ "type": "Feature", "id": 1224233837, "properties": { "id": 1224233837.0, "version": 5.0, "changeset": 15923567.0, "lat": 45.7998185, "lon": 15.9705992, "user": "Fiki", "uid": "493209", "visible": "true", "timestamp": "2013-04-30 17:22:36" }, "geometry": { "type": "Point", "coordinates": [ 15.9705992, 45.7998185 ] } }
+,
+{ "type": "Feature", "id": 1224233838, "properties": { "id": 1224233838.0, "version": 5.0, "changeset": 15923567.0, "lat": 45.7997834, "lon": 15.969878, "user": "Fiki", "uid": "493209", "visible": "true", "timestamp": "2013-04-30 17:22:36" }, "geometry": { "type": "Point", "coordinates": [ 15.969878, 45.7997834 ] } }
+,
+{ "type": "Feature", "id": 1448524160, "properties": { "id": 1448524160.0, "version": 6.0, "changeset": 15923567.0, "lat": 45.7998045, "lon": 15.9703903, "user": "Fiki", "uid": "493209", "visible": "true", "timestamp": "2013-04-30 17:22:46" }, "geometry": { "type": "Point", "coordinates": [ 15.9703903, 45.7998045 ] } }
+,
+{ "type": "Feature", "id": 330845422, "properties": { "id": 330845422.0, "version": 6.0, "changeset": 11304637.0, "lat": 45.8165185, "lon": 16.0031988, "user": "dplehati", "uid": "582434", "visible": "true", "timestamp": "2012-04-14 22:21:57" }, "geometry": { "type": "Point", "coordinates": [ 16.0031988, 45.8165185 ] } }
+,
+{ "type": "Feature", "id": 1693828089, "properties": { "id": 1693828089.0, "version": 2.0, "changeset": 11304637.0, "lat": 45.8164558, "lon": 16.0029234, "user": "dplehati", "uid": "582434", "visible": "true", "timestamp": "2012-04-14 22:22:03" }, "geometry": { "type": "Point", "coordinates": [ 16.0029234, 45.8164558 ] } }
+,
+{ "type": "Feature", "id": 1716986318, "properties": { "id": 1716986318.0, "version": 2.0, "changeset": 16118183.0, "lat": 45.8186634, "lon": 16.0121102, "user": "Janjko", "uid": "244754", "visible": "true", "timestamp": "2013-05-13 22:39:47" }, "geometry": { "type": "Point", "coordinates": [ 16.0121102, 45.8186634 ] } }
+,
+{ "type": "Feature", "id": 410861018, "properties": { "id": 410861018.0, "version": 7.0, "changeset": 14228377.0, "lat": 45.8008132, "lon": 15.9897544, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-10 16:59:07" }, "geometry": { "type": "Point", "coordinates": [ 15.9897544, 45.8008132 ] } }
+,
+{ "type": "Feature", "id": 325113974, "properties": { "id": 325113974.0, "version": 6.0, "changeset": 11580510.0, "lat": 45.8149738, "lon": 15.9969868, "user": "dplehati", "uid": "582434", "visible": "true", "timestamp": "2012-05-12 20:36:45" }, "geometry": { "type": "Point", "coordinates": [ 15.9969868, 45.8149738 ] } }
+,
+{ "type": "Feature", "id": 330845726, "properties": { "id": 330845726.0, "version": 5.0, "changeset": 14325470.0, "lat": 45.8175745, "lon": 16.0077827, "user": "wheelmap_visitor", "uid": "290680", "visible": "true", "timestamp": "2012-12-18 23:38:38" }, "geometry": { "type": "Point", "coordinates": [ 16.0077827, 45.8175745 ] } }
+,
+{ "type": "Feature", "id": 1716986131, "properties": { "id": 1716986131.0, "version": 2.0, "changeset": 11316887.0, "lat": 45.8010641, "lon": 15.9946076, "user": "dplehati", "uid": "582434", "visible": "true", "timestamp": "2012-04-15 22:47:25" }, "geometry": { "type": "Point", "coordinates": [ 15.9946076, 45.8010641 ] } }
+,
+{ "type": "Feature", "id": 1544905485, "properties": { "id": 1544905485.0, "version": 5.0, "changeset": 11580510.0, "lat": 45.793275, "lon": 15.9580625, "user": "dplehati", "uid": "582434", "visible": "true", "timestamp": "2012-05-12 20:36:47" }, "geometry": { "type": "Point", "coordinates": [ 15.9580625, 45.793275 ] } }
+,
+{ "type": "Feature", "id": 534167713, "properties": { "id": 534167713.0, "version": 9.0, "changeset": 11580510.0, "lat": 45.7939988, "lon": 15.9585874, "user": "dplehati", "uid": "582434", "visible": "true", "timestamp": "2012-05-12 20:36:48" }, "geometry": { "type": "Point", "coordinates": [ 15.9585874, 45.7939988 ] } }
+,
+{ "type": "Feature", "id": 25323151, "properties": { "id": 25323151.0, "version": 15.0, "changeset": 16118183.0, "lat": 45.8187794, "lon": 16.012928, "user": "Janjko", "uid": "244754", "visible": "true", "timestamp": "2013-05-13 22:39:47" }, "geometry": { "type": "Point", "coordinates": [ 16.012928, 45.8187794 ] } }
+,
+{ "type": "Feature", "id": 25323321, "properties": { "id": 25323321.0, "version": 11.0, "changeset": 16118183.0, "lat": 45.8188165, "lon": 16.0130489, "user": "Janjko", "uid": "244754", "visible": "true", "timestamp": "2013-05-13 22:39:47" }, "geometry": { "type": "Point", "coordinates": [ 16.0130489, 45.8188165 ] } }
+,
+{ "type": "Feature", "id": 1705755074, "properties": { "id": 1705755074.0, "version": 5.0, "changeset": 16118183.0, "lat": 45.8187216, "lon": 16.0127082, "user": "Janjko", "uid": "244754", "visible": "true", "timestamp": "2013-05-13 22:39:47" }, "geometry": { "type": "Point", "coordinates": [ 16.0127082, 45.8187216 ] } }
+,
+{ "type": "Feature", "id": 1705760098, "properties": { "id": 1705760098.0, "version": 2.0, "changeset": 16118183.0, "lat": 45.818648, "lon": 16.0124281, "user": "Janjko", "uid": "244754", "visible": "true", "timestamp": "2013-05-13 22:39:47" }, "geometry": { "type": "Point", "coordinates": [ 16.0124281, 45.818648 ] } }
+,
+{ "type": "Feature", "id": 330845810, "properties": { "id": 330845810.0, "version": 11.0, "changeset": 16118183.0, "lat": 45.8186218, "lon": 16.012303, "user": "Janjko", "uid": "244754", "visible": "true", "timestamp": "2013-05-13 22:39:48" }, "geometry": { "type": "Point", "coordinates": [ 16.012303, 45.8186218 ] } }
+,
+{ "type": "Feature", "id": 1705760099, "properties": { "id": 1705760099.0, "version": 2.0, "changeset": 16118183.0, "lat": 45.8187944, "lon": 16.0126618, "user": "Janjko", "uid": "244754", "visible": "true", "timestamp": "2013-05-13 22:39:48" }, "geometry": { "type": "Point", "coordinates": [ 16.0126618, 45.8187944 ] } }
+,
+{ "type": "Feature", "id": 1625369732, "properties": { "id": 1625369732.0, "version": 2.0, "changeset": 13162324.0, "lat": 45.797005, "lon": 15.9606141, "user": "Janjko", "uid": "244754", "visible": "true", "timestamp": "2012-09-18 20:54:10" }, "geometry": { "type": "Point", "coordinates": [ 15.9606141, 45.797005 ] } }
+,
+{ "type": "Feature", "id": 1552596131, "properties": { "id": 1552596131.0, "version": 5.0, "changeset": 12104397.0, "lat": 45.7968428, "lon": 15.9604959, "user": "Valent Turkovic", "uid": "55724", "visible": "true", "timestamp": "2012-07-03 20:37:29" }, "geometry": { "type": "Point", "coordinates": [ 15.9604959, 45.7968428 ] } }
+,
+{ "type": "Feature", "id": 1567956172, "properties": { "id": 1567956172.0, "version": 2.0, "changeset": 13252047.0, "lat": 45.7873204, "lon": 15.9539565, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-09-25 20:31:04" }, "geometry": { "type": "Point", "coordinates": [ 15.9539565, 45.7873204 ] } }
+,
+{ "type": "Feature", "id": 1990903780, "properties": { "id": 1990903780.0, "version": 1.0, "changeset": 13698272.0, "lat": 45.7903327, "lon": 15.9560093, "user": "Janjko", "uid": "244754", "visible": "true", "timestamp": "2012-10-31 12:32:58" }, "geometry": { "type": "Point", "coordinates": [ 15.9560093, 45.7903327 ] } }
+,
+{ "type": "Feature", "id": 1693584400, "properties": { "id": 1693584400.0, "version": 2.0, "changeset": 13779274.0, "lat": 45.8169494, "lon": 16.0050352, "user": "Janjko", "uid": "244754", "visible": "true", "timestamp": "2012-11-06 21:36:12" }, "geometry": { "type": "Point", "coordinates": [ 16.0050352, 45.8169494 ] } }
+,
+{ "type": "Feature", "id": 2000657858, "properties": { "id": 2000657858.0, "version": 1.0, "changeset": 13779827.0, "lat": 45.8142968, "lon": 15.9966741, "user": "Janjko", "uid": "244754", "visible": "true", "timestamp": "2012-11-06 22:29:54" }, "geometry": { "type": "Point", "coordinates": [ 15.9966741, 45.8142968 ] } }
+,
+{ "type": "Feature", "id": 25323345, "properties": { "id": 25323345.0, "version": 22.0, "changeset": 13779827.0, "lat": 45.8164066, "lon": 16.0027318, "user": "Janjko", "uid": "244754", "visible": "true", "timestamp": "2012-11-06 22:29:54" }, "geometry": { "type": "Point", "coordinates": [ 16.0027318, 45.8164066 ] } }
+,
+{ "type": "Feature", "id": 1274269581, "properties": { "id": 1274269581.0, "version": 2.0, "changeset": 13779827.0, "lat": 45.8143547, "lon": 15.9966731, "user": "Janjko", "uid": "244754", "visible": "true", "timestamp": "2012-11-06 22:29:55" }, "geometry": { "type": "Point", "coordinates": [ 15.9966731, 45.8143547 ] } }
+,
+{ "type": "Feature", "id": 1716986290, "properties": { "id": 1716986290.0, "version": 2.0, "changeset": 13779827.0, "lat": 45.8152876, "lon": 15.9976218, "user": "Janjko", "uid": "244754", "visible": "true", "timestamp": "2012-11-06 22:29:55" }, "geometry": { "type": "Point", "coordinates": [ 15.9976218, 45.8152876 ] } }
+,
+{ "type": "Feature", "id": 25419794, "properties": { "id": 25419794.0, "version": 26.0, "changeset": 14274281.0, "lat": 45.8150953, "lon": 15.9972945, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-14 18:12:21" }, "geometry": { "type": "Point", "coordinates": [ 15.9972945, 45.8150953 ] } }
+,
+{ "type": "Feature", "id": 325113617, "properties": { "id": 325113617.0, "version": 8.0, "changeset": 13779827.0, "lat": 45.8152462, "lon": 15.9977721, "user": "Janjko", "uid": "244754", "visible": "true", "timestamp": "2012-11-06 22:29:59" }, "geometry": { "type": "Point", "coordinates": [ 15.9977721, 45.8152462 ] } }
+,
+{ "type": "Feature", "id": 1693828083, "properties": { "id": 1693828083.0, "version": 3.0, "changeset": 13779827.0, "lat": 45.8163791, "lon": 16.0026226, "user": "Janjko", "uid": "244754", "visible": "true", "timestamp": "2012-11-06 22:30:00" }, "geometry": { "type": "Point", "coordinates": [ 16.0026226, 45.8163791 ] } }
+,
+{ "type": "Feature", "id": 1448495454, "properties": { "id": 1448495454.0, "version": 3.0, "changeset": 13779827.0, "lat": 45.8153747, "lon": 15.99794, "user": "Janjko", "uid": "244754", "visible": "true", "timestamp": "2012-11-06 22:30:00" }, "geometry": { "type": "Point", "coordinates": [ 15.99794, 45.8153747 ] } }
+,
+{ "type": "Feature", "id": 2015879021, "properties": { "id": 2015879021.0, "version": 1.0, "changeset": 13889149.0, "lat": 45.8150255, "lon": 15.9971257, "user": "Janjko", "uid": "244754", "visible": "true", "timestamp": "2012-11-15 23:45:45" }, "geometry": { "type": "Point", "coordinates": [ 15.9971257, 45.8150255 ] } }
+,
+{ "type": "Feature", "id": 2056218958, "properties": { "id": 2056218958.0, "version": 1.0, "changeset": 14202592.0, "lat": 45.7898044, "lon": 15.9202354, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-08 16:55:20" }, "geometry": { "type": "Point", "coordinates": [ 15.9202354, 45.7898044 ] } }
+,
+{ "type": "Feature", "id": 2056219009, "properties": { "id": 2056219009.0, "version": 1.0, "changeset": 14202592.0, "lat": 45.794102, "lon": 15.8992445, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-08 16:55:21" }, "geometry": { "type": "Point", "coordinates": [ 15.8992445, 45.794102 ] } }
+,
+{ "type": "Feature", "id": 20840322, "properties": { "id": 20840322.0, "version": 7.0, "changeset": 14202592.0, "lat": 45.7942533, "lon": 15.8927054, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-08 16:55:31" }, "geometry": { "type": "Point", "coordinates": [ 15.8927054, 45.7942533 ] } }
+,
+{ "type": "Feature", "id": 1123379769, "properties": { "id": 1123379769.0, "version": 2.0, "changeset": 14202592.0, "lat": 45.7942176, "lon": 15.8925091, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-08 16:55:32" }, "geometry": { "type": "Point", "coordinates": [ 15.8925091, 45.7942176 ] } }
+,
+{ "type": "Feature", "id": 1351850238, "properties": { "id": 1351850238.0, "version": 2.0, "changeset": 14202592.0, "lat": 45.7898812, "lon": 15.9200717, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-08 16:55:32" }, "geometry": { "type": "Point", "coordinates": [ 15.9200717, 45.7898812 ] } }
+,
+{ "type": "Feature", "id": 1449117138, "properties": { "id": 1449117138.0, "version": 4.0, "changeset": 14202592.0, "lat": 45.7917367, "lon": 15.9138503, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-08 16:55:32" }, "geometry": { "type": "Point", "coordinates": [ 15.9138503, 45.7917367 ] } }
+,
+{ "type": "Feature", "id": 1449181369, "properties": { "id": 1449181369.0, "version": 3.0, "changeset": 14202592.0, "lat": 45.7944332, "lon": 15.8936408, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-08 16:55:32" }, "geometry": { "type": "Point", "coordinates": [ 15.8936408, 45.7944332 ] } }
+,
+{ "type": "Feature", "id": 1449186964, "properties": { "id": 1449186964.0, "version": 2.0, "changeset": 14202592.0, "lat": 45.7917614, "lon": 15.9135853, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-08 16:55:32" }, "geometry": { "type": "Point", "coordinates": [ 15.9135853, 45.7917614 ] } }
+,
+{ "type": "Feature", "id": 1498770511, "properties": { "id": 1498770511.0, "version": 2.0, "changeset": 14202592.0, "lat": 45.7925354, "lon": 15.9059992, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-08 16:55:32" }, "geometry": { "type": "Point", "coordinates": [ 15.9059992, 45.7925354 ] } }
+,
+{ "type": "Feature", "id": 1498770516, "properties": { "id": 1498770516.0, "version": 2.0, "changeset": 14202592.0, "lat": 45.7924905, "lon": 15.9064674, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-08 16:55:32" }, "geometry": { "type": "Point", "coordinates": [ 15.9064674, 45.7924905 ] } }
+,
+{ "type": "Feature", "id": 1498770517, "properties": { "id": 1498770517.0, "version": 3.0, "changeset": 14202592.0, "lat": 45.7932, "lon": 15.9019001, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-08 16:55:32" }, "geometry": { "type": "Point", "coordinates": [ 15.9019001, 45.7932 ] } }
+,
+{ "type": "Feature", "id": 319473904, "properties": { "id": 319473904.0, "version": 9.0, "changeset": 14202592.0, "lat": 45.7937746, "lon": 15.9001947, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-08 16:55:32" }, "geometry": { "type": "Point", "coordinates": [ 15.9001947, 45.7937746 ] } }
+,
+{ "type": "Feature", "id": 410836836, "properties": { "id": 410836836.0, "version": 5.0, "changeset": 14202592.0, "lat": 45.7928857, "lon": 15.902946, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-08 16:55:33" }, "geometry": { "type": "Point", "coordinates": [ 15.902946, 45.7928857 ] } }
+,
+{ "type": "Feature", "id": 411274338, "properties": { "id": 411274338.0, "version": 3.0, "changeset": 14202592.0, "lat": 45.794502, "lon": 15.8978226, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-08 16:55:33" }, "geometry": { "type": "Point", "coordinates": [ 15.8978226, 45.794502 ] } }
+,
+{ "type": "Feature", "id": 914301732, "properties": { "id": 914301732.0, "version": 3.0, "changeset": 14202592.0, "lat": 45.7941401, "lon": 15.8991407, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-08 16:55:33" }, "geometry": { "type": "Point", "coordinates": [ 15.8991407, 45.7941401 ] } }
+,
+{ "type": "Feature", "id": 2056358449, "properties": { "id": 2056358449.0, "version": 1.0, "changeset": 14203075.0, "lat": 45.7867199, "lon": 15.952402, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-08 17:33:14" }, "geometry": { "type": "Point", "coordinates": [ 15.952402, 45.7867199 ] } }
+,
+{ "type": "Feature", "id": 2056358453, "properties": { "id": 2056358453.0, "version": 1.0, "changeset": 14203075.0, "lat": 45.7863273, "lon": 15.9496505, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-08 17:33:14" }, "geometry": { "type": "Point", "coordinates": [ 15.9496505, 45.7863273 ] } }
+,
+{ "type": "Feature", "id": 2056358455, "properties": { "id": 2056358455.0, "version": 1.0, "changeset": 14203075.0, "lat": 45.7863346, "lon": 15.9503558, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-08 17:33:14" }, "geometry": { "type": "Point", "coordinates": [ 15.9503558, 45.7863346 ] } }
+,
+{ "type": "Feature", "id": 2056358457, "properties": { "id": 2056358457.0, "version": 1.0, "changeset": 14203075.0, "lat": 45.7864842, "lon": 15.9487406, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-08 17:33:14" }, "geometry": { "type": "Point", "coordinates": [ 15.9487406, 45.7864842 ] } }
+,
+{ "type": "Feature", "id": 2056358459, "properties": { "id": 2056358459.0, "version": 1.0, "changeset": 14203075.0, "lat": 45.7864892, "lon": 15.9512817, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-08 17:33:14" }, "geometry": { "type": "Point", "coordinates": [ 15.9512817, 45.7864892 ] } }
+,
+{ "type": "Feature", "id": 2056358466, "properties": { "id": 2056358466.0, "version": 1.0, "changeset": 14203075.0, "lat": 45.7866627, "lon": 15.9521679, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-08 17:33:14" }, "geometry": { "type": "Point", "coordinates": [ 15.9521679, 45.7866627 ] } }
+,
+{ "type": "Feature", "id": 2056358468, "properties": { "id": 2056358468.0, "version": 1.0, "changeset": 14203075.0, "lat": 45.7867077, "lon": 15.9523418, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-08 17:33:14" }, "geometry": { "type": "Point", "coordinates": [ 15.9523418, 45.7867077 ] } }
+,
+{ "type": "Feature", "id": 2056358473, "properties": { "id": 2056358473.0, "version": 1.0, "changeset": 14203075.0, "lat": 45.787066, "lon": 15.9472676, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-08 17:33:14" }, "geometry": { "type": "Point", "coordinates": [ 15.9472676, 45.787066 ] } }
+,
+{ "type": "Feature", "id": 2056358483, "properties": { "id": 2056358483.0, "version": 1.0, "changeset": 14203075.0, "lat": 45.7874231, "lon": 15.9466862, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-08 17:33:15" }, "geometry": { "type": "Point", "coordinates": [ 15.9466862, 45.7874231 ] } }
+,
+{ "type": "Feature", "id": 2056358492, "properties": { "id": 2056358492.0, "version": 1.0, "changeset": 14203075.0, "lat": 45.788004, "lon": 15.9460816, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-08 17:33:15" }, "geometry": { "type": "Point", "coordinates": [ 15.9460816, 45.788004 ] } }
+,
+{ "type": "Feature", "id": 2056358496, "properties": { "id": 2056358496.0, "version": 1.0, "changeset": 14203075.0, "lat": 45.7880942, "lon": 15.9459084, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-08 17:33:15" }, "geometry": { "type": "Point", "coordinates": [ 15.9459084, 45.7880942 ] } }
+,
+{ "type": "Feature", "id": 2056358497, "properties": { "id": 2056358497.0, "version": 1.0, "changeset": 14203075.0, "lat": 45.7881043, "lon": 15.9459702, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-08 17:33:15" }, "geometry": { "type": "Point", "coordinates": [ 15.9459702, 45.7881043 ] } }
+,
+{ "type": "Feature", "id": 2056358498, "properties": { "id": 2056358498.0, "version": 1.0, "changeset": 14203075.0, "lat": 45.7881059, "lon": 15.9458694, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-08 17:33:15" }, "geometry": { "type": "Point", "coordinates": [ 15.9458694, 45.7881059 ] } }
+,
+{ "type": "Feature", "id": 2056358499, "properties": { "id": 2056358499.0, "version": 1.0, "changeset": 14203075.0, "lat": 45.7881128, "lon": 15.9458183, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-08 17:33:15" }, "geometry": { "type": "Point", "coordinates": [ 15.9458183, 45.7881128 ] } }
+,
+{ "type": "Feature", "id": 2056358501, "properties": { "id": 2056358501.0, "version": 1.0, "changeset": 14203075.0, "lat": 45.788119, "lon": 15.9456044, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-08 17:33:15" }, "geometry": { "type": "Point", "coordinates": [ 15.9456044, 45.788119 ] } }
+,
+{ "type": "Feature", "id": 2056358504, "properties": { "id": 2056358504.0, "version": 1.0, "changeset": 14203075.0, "lat": 45.7881246, "lon": 15.9459313, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-08 17:33:15" }, "geometry": { "type": "Point", "coordinates": [ 15.9459313, 45.7881246 ] } }
+,
+{ "type": "Feature", "id": 2056358506, "properties": { "id": 2056358506.0, "version": 1.0, "changeset": 14203075.0, "lat": 45.788132, "lon": 15.9458862, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-08 17:33:15" }, "geometry": { "type": "Point", "coordinates": [ 15.9458862, 45.788132 ] } }
+,
+{ "type": "Feature", "id": 2056358507, "properties": { "id": 2056358507.0, "version": 1.0, "changeset": 14203075.0, "lat": 45.7881363, "lon": 15.9458114, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-08 17:33:15" }, "geometry": { "type": "Point", "coordinates": [ 15.9458114, 45.7881363 ] } }
+,
+{ "type": "Feature", "id": 321506532, "properties": { "id": 321506532.0, "version": 11.0, "changeset": 14203075.0, "lat": 45.7864401, "lon": 15.9512126, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-08 17:33:28" }, "geometry": { "type": "Point", "coordinates": [ 15.9512126, 45.7864401 ] } }
+,
+{ "type": "Feature", "id": 319473881, "properties": { "id": 319473881.0, "version": 14.0, "changeset": 14203075.0, "lat": 45.7879949, "lon": 15.9460075, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-08 17:33:28" }, "geometry": { "type": "Point", "coordinates": [ 15.9460075, 45.7879949 ] } }
+,
+{ "type": "Feature", "id": 319473884, "properties": { "id": 319473884.0, "version": 8.0, "changeset": 14203075.0, "lat": 45.7881458, "lon": 15.9364921, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-08 17:33:28" }, "geometry": { "type": "Point", "coordinates": [ 15.9364921, 45.7881458 ] } }
+,
+{ "type": "Feature", "id": 2056358472, "properties": { "id": 2056358472.0, "version": 2.0, "changeset": 14216862.0, "lat": 45.7869096, "lon": 15.9531651, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-09 18:49:33" }, "geometry": { "type": "Point", "coordinates": [ 15.9531651, 45.7869096 ] } }
+,
+{ "type": "Feature", "id": 2056358512, "properties": { "id": 2056358512.0, "version": 2.0, "changeset": 14229425.0, "lat": 45.7881896, "lon": 15.9412931, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-10 18:36:50" }, "geometry": { "type": "Point", "coordinates": [ 15.9412931, 45.7881896 ] } }
+,
+{ "type": "Feature", "id": 2056358470, "properties": { "id": 2056358470.0, "version": 2.0, "changeset": 14203110.0, "lat": 45.7868289, "lon": 15.9528731, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-08 17:36:12" }, "geometry": { "type": "Point", "coordinates": [ 15.9528731, 45.7868289 ] } }
+,
+{ "type": "Feature", "id": 2056358490, "properties": { "id": 2056358490.0, "version": 2.0, "changeset": 14203110.0, "lat": 45.7878442, "lon": 15.929788, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-08 17:36:12" }, "geometry": { "type": "Point", "coordinates": [ 15.929788, 45.7878442 ] } }
+,
+{ "type": "Feature", "id": 2058573273, "properties": { "id": 2058573273.0, "version": 1.0, "changeset": 14216862.0, "lat": 45.7868031, "lon": 15.9528885, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-09 18:49:25" }, "geometry": { "type": "Point", "coordinates": [ 15.9528885, 45.7868031 ] } }
+,
+{ "type": "Feature", "id": 2058573274, "properties": { "id": 2058573274.0, "version": 1.0, "changeset": 14216862.0, "lat": 45.7869611, "lon": 15.9533261, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-09 18:49:25" }, "geometry": { "type": "Point", "coordinates": [ 15.9533261, 45.7869611 ] } }
+,
+{ "type": "Feature", "id": 2058573275, "properties": { "id": 2058573275.0, "version": 1.0, "changeset": 14216862.0, "lat": 45.7870978, "lon": 15.9536551, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-09 18:49:25" }, "geometry": { "type": "Point", "coordinates": [ 15.9536551, 45.7870978 ] } }
+,
+{ "type": "Feature", "id": 2058573276, "properties": { "id": 2058573276.0, "version": 1.0, "changeset": 14216862.0, "lat": 45.7871816, "lon": 15.9537899, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-09 18:49:25" }, "geometry": { "type": "Point", "coordinates": [ 15.9537899, 45.7871816 ] } }
+,
+{ "type": "Feature", "id": 2060104551, "properties": { "id": 2060104551.0, "version": 1.0, "changeset": 14228377.0, "lat": 45.7993967, "lon": 15.9623763, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-10 16:58:22" }, "geometry": { "type": "Point", "coordinates": [ 15.9623763, 45.7993967 ] } }
+,
+{ "type": "Feature", "id": 2060104602, "properties": { "id": 2060104602.0, "version": 1.0, "changeset": 14228377.0, "lat": 45.8010645, "lon": 15.995154, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-10 16:58:24" }, "geometry": { "type": "Point", "coordinates": [ 15.995154, 45.8010645 ] } }
+,
+{ "type": "Feature", "id": 1449369849, "properties": { "id": 1449369849.0, "version": 5.0, "changeset": 15923567.0, "lat": 45.8000342, "lon": 15.974859, "user": "Fiki", "uid": "493209", "visible": "true", "timestamp": "2013-04-30 17:22:50" }, "geometry": { "type": "Point", "coordinates": [ 15.974859, 45.8000342 ] } }
+,
+{ "type": "Feature", "id": 1449370162, "properties": { "id": 1449370162.0, "version": 4.0, "changeset": 15923567.0, "lat": 45.8000219, "lon": 15.9745734, "user": "Fiki", "uid": "493209", "visible": "true", "timestamp": "2013-04-30 17:22:51" }, "geometry": { "type": "Point", "coordinates": [ 15.9745734, 45.8000219 ] } }
+,
+{ "type": "Feature", "id": 2060104605, "properties": { "id": 2060104605.0, "version": 1.0, "changeset": 14228377.0, "lat": 45.8010761, "lon": 15.9953944, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-10 16:58:24" }, "geometry": { "type": "Point", "coordinates": [ 15.9953944, 45.8010761 ] } }
+,
+{ "type": "Feature", "id": 2060104606, "properties": { "id": 2060104606.0, "version": 1.0, "changeset": 14228377.0, "lat": 45.8010768, "lon": 15.9954065, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-10 16:58:24" }, "geometry": { "type": "Point", "coordinates": [ 15.9954065, 45.8010768 ] } }
+,
+{ "type": "Feature", "id": 2060104607, "properties": { "id": 2060104607.0, "version": 1.0, "changeset": 14228377.0, "lat": 45.8010778, "lon": 15.9953156, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-10 16:58:24" }, "geometry": { "type": "Point", "coordinates": [ 15.9953156, 45.8010778 ] } }
+,
+{ "type": "Feature", "id": 2060104609, "properties": { "id": 2060104609.0, "version": 1.0, "changeset": 14228377.0, "lat": 45.8010924, "lon": 15.9953599, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-10 16:58:24" }, "geometry": { "type": "Point", "coordinates": [ 15.9953599, 45.8010924 ] } }
+,
+{ "type": "Feature", "id": 321538143, "properties": { "id": 321538143.0, "version": 9.0, "changeset": 15923567.0, "lat": 45.8000476, "lon": 15.9753268, "user": "Fiki", "uid": "493209", "visible": "true", "timestamp": "2013-04-30 17:25:03" }, "geometry": { "type": "Point", "coordinates": [ 15.9753268, 45.8000476 ] } }
+,
+{ "type": "Feature", "id": 2060104611, "properties": { "id": 2060104611.0, "version": 1.0, "changeset": 14228377.0, "lat": 45.8011081, "lon": 15.99538, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-10 16:58:24" }, "geometry": { "type": "Point", "coordinates": [ 15.99538, 45.8011081 ] } }
+,
+{ "type": "Feature", "id": 321538170, "properties": { "id": 321538170.0, "version": 7.0, "changeset": 15923567.0, "lat": 45.7996663, "lon": 15.9676595, "user": "Fiki", "uid": "493209", "visible": "true", "timestamp": "2013-04-30 17:25:03" }, "geometry": { "type": "Point", "coordinates": [ 15.9676595, 45.7996663 ] } }
+,
+{ "type": "Feature", "id": 1457018329, "properties": { "id": 1457018329.0, "version": 6.0, "changeset": 15932856.0, "lat": 45.7996777, "lon": 15.96782, "user": "Fiki", "uid": "493209", "visible": "true", "timestamp": "2013-05-01 12:32:57" }, "geometry": { "type": "Point", "coordinates": [ 15.96782, 45.7996777 ] } }
+,
+{ "type": "Feature", "id": 1448524159, "properties": { "id": 1448524159.0, "version": 5.0, "changeset": 14228377.0, "lat": 45.8007881, "lon": 15.9891335, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-10 16:59:08" }, "geometry": { "type": "Point", "coordinates": [ 15.9891335, 45.8007881 ] } }
+,
+{ "type": "Feature", "id": 1550092655, "properties": { "id": 1550092655.0, "version": 3.0, "changeset": 14228377.0, "lat": 45.8010819, "lon": 15.9954947, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-10 16:59:08" }, "geometry": { "type": "Point", "coordinates": [ 15.9954947, 45.8010819 ] } }
+,
+{ "type": "Feature", "id": 1551864448, "properties": { "id": 1551864448.0, "version": 4.0, "changeset": 14228377.0, "lat": 45.800556, "lon": 15.9854619, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-10 16:59:08" }, "geometry": { "type": "Point", "coordinates": [ 15.9854619, 45.800556 ] } }
+,
+{ "type": "Feature", "id": 1712607306, "properties": { "id": 1712607306.0, "version": 3.0, "changeset": 14228377.0, "lat": 45.800537, "lon": 15.9851536, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-10 16:59:08" }, "geometry": { "type": "Point", "coordinates": [ 15.9851536, 45.800537 ] } }
+,
+{ "type": "Feature", "id": 21284399, "properties": { "id": 21284399.0, "version": 18.0, "changeset": 14228377.0, "lat": 45.8003203, "lon": 15.9805132, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-10 16:59:08" }, "geometry": { "type": "Point", "coordinates": [ 15.9805132, 45.8003203 ] } }
+,
+{ "type": "Feature", "id": 21284504, "properties": { "id": 21284504.0, "version": 21.0, "changeset": 14228377.0, "lat": 45.8005472, "lon": 15.9853187, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-10 16:59:08" }, "geometry": { "type": "Point", "coordinates": [ 15.9853187, 45.8005472 ] } }
+,
+{ "type": "Feature", "id": 410861017, "properties": { "id": 410861017.0, "version": 6.0, "changeset": 14228377.0, "lat": 45.8007812, "lon": 15.9889614, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-10 16:59:09" }, "geometry": { "type": "Point", "coordinates": [ 15.9889614, 45.8007812 ] } }
+,
+{ "type": "Feature", "id": 2060104604, "properties": { "id": 2060104604.0, "version": 2.0, "changeset": 14240684.0, "lat": 45.8010687, "lon": 15.9952668, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-11 17:31:33" }, "geometry": { "type": "Point", "coordinates": [ 15.9952668, 45.8010687 ] } }
+,
+{ "type": "Feature", "id": 2060146557, "properties": { "id": 2060146557.0, "version": 1.0, "changeset": 14228807.0, "lat": 45.7993796, "lon": 15.9622072, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-10 17:40:27" }, "geometry": { "type": "Point", "coordinates": [ 15.9622072, 45.7993796 ] } }
+,
+{ "type": "Feature", "id": 1552617199, "properties": { "id": 1552617199.0, "version": 5.0, "changeset": 14228807.0, "lat": 45.7943632, "lon": 15.9588311, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-10 17:40:35" }, "geometry": { "type": "Point", "coordinates": [ 15.9588311, 45.7943632 ] } }
+,
+{ "type": "Feature", "id": 2060104524, "properties": { "id": 2060104524.0, "version": 2.0, "changeset": 14228807.0, "lat": 45.7993208, "lon": 15.9621552, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-10 17:40:35" }, "geometry": { "type": "Point", "coordinates": [ 15.9621552, 45.7993208 ] } }
+,
+{ "type": "Feature", "id": 2060104526, "properties": { "id": 2060104526.0, "version": 2.0, "changeset": 14228807.0, "lat": 45.7993487, "lon": 15.9621746, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-10 17:40:35" }, "geometry": { "type": "Point", "coordinates": [ 15.9621746, 45.7993487 ] } }
+,
+{ "type": "Feature", "id": 2060104539, "properties": { "id": 2060104539.0, "version": 2.0, "changeset": 14228807.0, "lat": 45.7993705, "lon": 15.9621973, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-10 17:40:36" }, "geometry": { "type": "Point", "coordinates": [ 15.9621973, 45.7993705 ] } }
+,
+{ "type": "Feature", "id": 2060104544, "properties": { "id": 2060104544.0, "version": 2.0, "changeset": 14228807.0, "lat": 45.7993847, "lon": 15.962218, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-10 17:40:36" }, "geometry": { "type": "Point", "coordinates": [ 15.962218, 45.7993847 ] } }
+,
+{ "type": "Feature", "id": 2060104548, "properties": { "id": 2060104548.0, "version": 2.0, "changeset": 14228807.0, "lat": 45.7993881, "lon": 15.96223, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-10 17:40:36" }, "geometry": { "type": "Point", "coordinates": [ 15.96223, 45.7993881 ] } }
+,
+{ "type": "Feature", "id": 2060104550, "properties": { "id": 2060104550.0, "version": 2.0, "changeset": 14229425.0, "lat": 45.799391, "lon": 15.9622778, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-10 18:36:50" }, "geometry": { "type": "Point", "coordinates": [ 15.9622778, 45.799391 ] } }
+,
+{ "type": "Feature", "id": 410839149, "properties": { "id": 410839149.0, "version": 10.0, "changeset": 14229425.0, "lat": 45.788056, "lon": 15.9459521, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-10 18:36:50" }, "geometry": { "type": "Point", "coordinates": [ 15.9459521, 45.788056 ] } }
+,
+{ "type": "Feature", "id": 1449189033, "properties": { "id": 1449189033.0, "version": 4.0, "changeset": 14229425.0, "lat": 45.7865472, "lon": 15.9518062, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-10 18:36:50" }, "geometry": { "type": "Point", "coordinates": [ 15.9518062, 45.7865472 ] } }
+,
+{ "type": "Feature", "id": 2056358494, "properties": { "id": 2056358494.0, "version": 3.0, "changeset": 14229425.0, "lat": 45.7880637, "lon": 15.9460205, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-10 18:36:50" }, "geometry": { "type": "Point", "coordinates": [ 15.9460205, 45.7880637 ] } }
+,
+{ "type": "Feature", "id": 2056358534, "properties": { "id": 2056358534.0, "version": 3.0, "changeset": 14229425.0, "lat": 45.7894504, "lon": 15.9210345, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-10 18:36:50" }, "geometry": { "type": "Point", "coordinates": [ 15.9210345, 45.7894504 ] } }
+,
+{ "type": "Feature", "id": 2056358464, "properties": { "id": 2056358464.0, "version": 3.0, "changeset": 14229425.0, "lat": 45.7866068, "lon": 15.9519095, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-10 18:36:51" }, "geometry": { "type": "Point", "coordinates": [ 15.9519095, 45.7866068 ] } }
+,
+{ "type": "Feature", "id": 1305653346, "properties": { "id": 1305653346.0, "version": 3.0, "changeset": 14229425.0, "lat": 45.7889773, "lon": 15.9229481, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-10 18:36:51" }, "geometry": { "type": "Point", "coordinates": [ 15.9229481, 45.7889773 ] } }
+,
+{ "type": "Feature", "id": 1545069260, "properties": { "id": 1545069260.0, "version": 4.0, "changeset": 14229425.0, "lat": 45.7881373, "lon": 15.9457694, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-10 18:36:51" }, "geometry": { "type": "Point", "coordinates": [ 15.9457694, 45.7881373 ] } }
+,
+{ "type": "Feature", "id": 2056219015, "properties": { "id": 2056219015.0, "version": 2.0, "changeset": 14229425.0, "lat": 45.7941694, "lon": 15.8923167, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-10 18:36:51" }, "geometry": { "type": "Point", "coordinates": [ 15.8923167, 45.7941694 ] } }
+,
+{ "type": "Feature", "id": 1550092653, "properties": { "id": 1550092653.0, "version": 4.0, "changeset": 14229425.0, "lat": 45.8010741, "lon": 15.9953607, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-10 18:36:51" }, "geometry": { "type": "Point", "coordinates": [ 15.9953607, 45.8010741 ] } }
+,
+{ "type": "Feature", "id": 2060104608, "properties": { "id": 2060104608.0, "version": 2.0, "changeset": 14229425.0, "lat": 45.8010889, "lon": 15.9953507, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-10 18:36:51" }, "geometry": { "type": "Point", "coordinates": [ 15.9953507, 45.8010889 ] } }
+,
+{ "type": "Feature", "id": 2056358537, "properties": { "id": 2056358537.0, "version": 3.0, "changeset": 14229425.0, "lat": 45.789537, "lon": 15.9208304, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-10 18:36:51" }, "geometry": { "type": "Point", "coordinates": [ 15.9208304, 45.789537 ] } }
+,
+{ "type": "Feature", "id": 2056358461, "properties": { "id": 2056358461.0, "version": 3.0, "changeset": 14229425.0, "lat": 45.7865645, "lon": 15.9517152, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-10 18:36:51" }, "geometry": { "type": "Point", "coordinates": [ 15.9517152, 45.7865645 ] } }
+,
+{ "type": "Feature", "id": 2056358500, "properties": { "id": 2056358500.0, "version": 3.0, "changeset": 14229425.0, "lat": 45.7881146, "lon": 15.9457824, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-10 18:36:51" }, "geometry": { "type": "Point", "coordinates": [ 15.9457824, 45.7881146 ] } }
+,
+{ "type": "Feature", "id": 2060104616, "properties": { "id": 2060104616.0, "version": 3.0, "changeset": 14240684.0, "lat": 45.8011714, "lon": 15.995395, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-11 17:31:34" }, "geometry": { "type": "Point", "coordinates": [ 15.995395, 45.8011714 ] } }
+,
+{ "type": "Feature", "id": 2060740274, "properties": { "id": 2060740274.0, "version": 1.0, "changeset": 14232001.0, "lat": 45.786643, "lon": 15.9520791, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-10 22:01:04" }, "geometry": { "type": "Point", "coordinates": [ 15.9520791, 45.786643 ] } }
+,
+{ "type": "Feature", "id": 2061921070, "properties": { "id": 2061921070.0, "version": 1.0, "changeset": 14240684.0, "lat": 45.8010796, "lon": 15.9954545, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-11 17:31:14" }, "geometry": { "type": "Point", "coordinates": [ 15.9954545, 45.8010796 ] } }
+,
+{ "type": "Feature", "id": 2061921097, "properties": { "id": 2061921097.0, "version": 1.0, "changeset": 14240684.0, "lat": 45.801196, "lon": 15.9953893, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-11 17:31:14" }, "geometry": { "type": "Point", "coordinates": [ 15.9953893, 45.801196 ] } }
+,
+{ "type": "Feature", "id": 2060104613, "properties": { "id": 2060104613.0, "version": 2.0, "changeset": 14240684.0, "lat": 45.8011234, "lon": 15.9953972, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-11 17:31:33" }, "geometry": { "type": "Point", "coordinates": [ 15.9953972, 45.8011234 ] } }
+,
+{ "type": "Feature", "id": 2060104615, "properties": { "id": 2060104615.0, "version": 2.0, "changeset": 14240684.0, "lat": 45.8011409, "lon": 15.9954043, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-11 17:31:33" }, "geometry": { "type": "Point", "coordinates": [ 15.9954043, 45.8011409 ] } }
+,
+{ "type": "Feature", "id": 875850942, "properties": { "id": 875850942.0, "version": 7.0, "changeset": 14240684.0, "lat": 45.8010622, "lon": 15.9951043, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-11 17:31:34" }, "geometry": { "type": "Point", "coordinates": [ 15.9951043, 45.8010622 ] } }
+,
+{ "type": "Feature", "id": 2062222557, "properties": { "id": 2062222557.0, "version": 1.0, "changeset": 14242588.0, "lat": 45.8036725, "lon": 15.9939914, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-11 20:28:26" }, "geometry": { "type": "Point", "coordinates": [ 15.9939914, 45.8036725 ] } }
+,
+{ "type": "Feature", "id": 2062222559, "properties": { "id": 2062222559.0, "version": 1.0, "changeset": 14242588.0, "lat": 45.8012522, "lon": 15.9953589, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-11 20:28:27" }, "geometry": { "type": "Point", "coordinates": [ 15.9953589, 45.8012522 ] } }
+,
+{ "type": "Feature", "id": 2062222560, "properties": { "id": 2062222560.0, "version": 1.0, "changeset": 14242588.0, "lat": 45.8035846, "lon": 15.9940396, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-11 20:28:27" }, "geometry": { "type": "Point", "coordinates": [ 15.9940396, 45.8035846 ] } }
+,
+{ "type": "Feature", "id": 2062222561, "properties": { "id": 2062222561.0, "version": 1.0, "changeset": 14242588.0, "lat": 45.804406, "lon": 15.9935828, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-11 20:28:27" }, "geometry": { "type": "Point", "coordinates": [ 15.9935828, 45.804406 ] } }
+,
+{ "type": "Feature", "id": 2062222564, "properties": { "id": 2062222564.0, "version": 1.0, "changeset": 14242588.0, "lat": 45.8060737, "lon": 15.9926361, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-11 20:28:27" }, "geometry": { "type": "Point", "coordinates": [ 15.9926361, 45.8060737 ] } }
+,
+{ "type": "Feature", "id": 2062222566, "properties": { "id": 2062222566.0, "version": 1.0, "changeset": 14242588.0, "lat": 45.8061555, "lon": 15.9925857, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-11 20:28:27" }, "geometry": { "type": "Point", "coordinates": [ 15.9925857, 45.8061555 ] } }
+,
+{ "type": "Feature", "id": 2062222577, "properties": { "id": 2062222577.0, "version": 1.0, "changeset": 14242588.0, "lat": 45.8062593, "lon": 15.9925197, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-11 20:28:27" }, "geometry": { "type": "Point", "coordinates": [ 15.9925197, 45.8062593 ] } }
+,
+{ "type": "Feature", "id": 2062222582, "properties": { "id": 2062222582.0, "version": 1.0, "changeset": 14242588.0, "lat": 45.8063165, "lon": 15.9924872, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-11 20:28:27" }, "geometry": { "type": "Point", "coordinates": [ 15.9924872, 45.8063165 ] } }
+,
+{ "type": "Feature", "id": 2062222583, "properties": { "id": 2062222583.0, "version": 1.0, "changeset": 14242588.0, "lat": 45.8063308, "lon": 15.9924799, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-11 20:28:27" }, "geometry": { "type": "Point", "coordinates": [ 15.9924799, 45.8063308 ] } }
+,
+{ "type": "Feature", "id": 1620267085, "properties": { "id": 1620267085.0, "version": 2.0, "changeset": 14242588.0, "lat": 45.8039673, "lon": 15.9937796, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-11 20:28:37" }, "geometry": { "type": "Point", "coordinates": [ 15.9937796, 45.8039673 ] } }
+,
+{ "type": "Feature", "id": 2062238789, "properties": { "id": 2062238789.0, "version": 1.0, "changeset": 14242667.0, "lat": 45.8076625, "lon": 15.9917463, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-11 20:34:03" }, "geometry": { "type": "Point", "coordinates": [ 15.9917463, 45.8076625 ] } }
+,
+{ "type": "Feature", "id": 2062238790, "properties": { "id": 2062238790.0, "version": 1.0, "changeset": 14242667.0, "lat": 45.8065481, "lon": 15.9923497, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-11 20:34:03" }, "geometry": { "type": "Point", "coordinates": [ 15.9923497, 45.8065481 ] } }
+,
+{ "type": "Feature", "id": 2062238794, "properties": { "id": 2062238794.0, "version": 1.0, "changeset": 14242667.0, "lat": 45.8069147, "lon": 15.9921348, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-11 20:34:03" }, "geometry": { "type": "Point", "coordinates": [ 15.9921348, 45.8069147 ] } }
+,
+{ "type": "Feature", "id": 2062238796, "properties": { "id": 2062238796.0, "version": 1.0, "changeset": 14242667.0, "lat": 45.8073183, "lon": 15.9918105, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-11 20:34:03" }, "geometry": { "type": "Point", "coordinates": [ 15.9918105, 45.8073183 ] } }
+,
+{ "type": "Feature", "id": 2062238798, "properties": { "id": 2062238798.0, "version": 1.0, "changeset": 14242667.0, "lat": 45.8074221, "lon": 15.9917752, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-11 20:34:03" }, "geometry": { "type": "Point", "coordinates": [ 15.9917752, 45.8074221 ] } }
+,
+{ "type": "Feature", "id": 2062238802, "properties": { "id": 2062238802.0, "version": 1.0, "changeset": 14242667.0, "lat": 45.8083924, "lon": 15.991732, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-11 20:34:03" }, "geometry": { "type": "Point", "coordinates": [ 15.991732, 45.8083924 ] } }
+,
+{ "type": "Feature", "id": 2062238805, "properties": { "id": 2062238805.0, "version": 1.0, "changeset": 14242667.0, "lat": 45.8086235, "lon": 15.9918541, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-11 20:34:03" }, "geometry": { "type": "Point", "coordinates": [ 15.9918541, 45.8086235 ] } }
+,
+{ "type": "Feature", "id": 2062238809, "properties": { "id": 2062238809.0, "version": 1.0, "changeset": 14242667.0, "lat": 45.8101189, "lon": 15.9931176, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-11 20:34:03" }, "geometry": { "type": "Point", "coordinates": [ 15.9931176, 45.8101189 ] } }
+,
+{ "type": "Feature", "id": 2062238811, "properties": { "id": 2062238811.0, "version": 1.0, "changeset": 14242667.0, "lat": 45.8102668, "lon": 15.9932533, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-11 20:34:03" }, "geometry": { "type": "Point", "coordinates": [ 15.9932533, 45.8102668 ] } }
+,
+{ "type": "Feature", "id": 2062238816, "properties": { "id": 2062238816.0, "version": 1.0, "changeset": 14242667.0, "lat": 45.8099031, "lon": 15.9929269, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-11 20:34:03" }, "geometry": { "type": "Point", "coordinates": [ 15.9929269, 45.8099031 ] } }
+,
+{ "type": "Feature", "id": 2062238800, "properties": { "id": 2062238800.0, "version": 2.0, "changeset": 14275905.0, "lat": 45.8082039, "lon": 15.9916963, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-14 21:15:00" }, "geometry": { "type": "Point", "coordinates": [ 15.9916963, 45.8082039 ] } }
+,
+{ "type": "Feature", "id": 2062425675, "properties": { "id": 2062425675.0, "version": 1.0, "changeset": 14244296.0, "lat": 45.8123384, "lon": 15.9950033, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-11 23:06:33" }, "geometry": { "type": "Point", "coordinates": [ 15.9950033, 45.8123384 ] } }
+,
+{ "type": "Feature", "id": 2062425689, "properties": { "id": 2062425689.0, "version": 1.0, "changeset": 14244296.0, "lat": 45.8103815, "lon": 15.9933647, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-11 23:06:33" }, "geometry": { "type": "Point", "coordinates": [ 15.9933647, 45.8103815 ] } }
+,
+{ "type": "Feature", "id": 2062425690, "properties": { "id": 2062425690.0, "version": 1.0, "changeset": 14244296.0, "lat": 45.8103901, "lon": 15.9933732, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-11 23:06:33" }, "geometry": { "type": "Point", "coordinates": [ 15.9933732, 45.8103901 ] } }
+,
+{ "type": "Feature", "id": 2062425691, "properties": { "id": 2062425691.0, "version": 1.0, "changeset": 14244296.0, "lat": 45.8104364, "lon": 15.9934166, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-11 23:06:33" }, "geometry": { "type": "Point", "coordinates": [ 15.9934166, 45.8104364 ] } }
+,
+{ "type": "Feature", "id": 2062425692, "properties": { "id": 2062425692.0, "version": 1.0, "changeset": 14244296.0, "lat": 45.8108251, "lon": 15.993723, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-11 23:06:33" }, "geometry": { "type": "Point", "coordinates": [ 15.993723, 45.8108251 ] } }
+,
+{ "type": "Feature", "id": 2062425693, "properties": { "id": 2062425693.0, "version": 1.0, "changeset": 14244296.0, "lat": 45.8124804, "lon": 15.9951239, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-11 23:06:33" }, "geometry": { "type": "Point", "coordinates": [ 15.9951239, 45.8124804 ] } }
+,
+{ "type": "Feature", "id": 2062425695, "properties": { "id": 2062425695.0, "version": 1.0, "changeset": 14244296.0, "lat": 45.8125899, "lon": 15.9952185, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-11 23:06:33" }, "geometry": { "type": "Point", "coordinates": [ 15.9952185, 45.8125899 ] } }
+,
+{ "type": "Feature", "id": 2062425696, "properties": { "id": 2062425696.0, "version": 1.0, "changeset": 14244296.0, "lat": 45.8127283, "lon": 15.9953454, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-11 23:06:33" }, "geometry": { "type": "Point", "coordinates": [ 15.9953454, 45.8127283 ] } }
+,
+{ "type": "Feature", "id": 2062425697, "properties": { "id": 2062425697.0, "version": 1.0, "changeset": 14244296.0, "lat": 45.8139953, "lon": 15.9964415, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-11 23:06:33" }, "geometry": { "type": "Point", "coordinates": [ 15.9964415, 45.8139953 ] } }
+,
+{ "type": "Feature", "id": 2062425699, "properties": { "id": 2062425699.0, "version": 1.0, "changeset": 14244296.0, "lat": 45.8140909, "lon": 15.9965304, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-11 23:06:33" }, "geometry": { "type": "Point", "coordinates": [ 15.9965304, 45.8140909 ] } }
+,
+{ "type": "Feature", "id": 2062425700, "properties": { "id": 2062425700.0, "version": 1.0, "changeset": 14244296.0, "lat": 45.8141622, "lon": 15.9966014, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-11 23:06:33" }, "geometry": { "type": "Point", "coordinates": [ 15.9966014, 45.8141622 ] } }
+,
+{ "type": "Feature", "id": 2064832047, "properties": { "id": 2064832047.0, "version": 1.0, "changeset": 14260532.0, "lat": 45.8146489, "lon": 15.9964678, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-13 14:14:16" }, "geometry": { "type": "Point", "coordinates": [ 15.9964678, 45.8146489 ] } }
+,
+{ "type": "Feature", "id": 2064832061, "properties": { "id": 2064832061.0, "version": 1.0, "changeset": 14260532.0, "lat": 45.8147248, "lon": 15.9964248, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-13 14:14:16" }, "geometry": { "type": "Point", "coordinates": [ 15.9964248, 45.8147248 ] } }
+,
+{ "type": "Feature", "id": 2064832063, "properties": { "id": 2064832063.0, "version": 1.0, "changeset": 14260532.0, "lat": 45.8147474, "lon": 15.9964225, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-13 14:14:16" }, "geometry": { "type": "Point", "coordinates": [ 15.9964225, 45.8147474 ] } }
+,
+{ "type": "Feature", "id": 2064832065, "properties": { "id": 2064832065.0, "version": 1.0, "changeset": 14260532.0, "lat": 45.8147707, "lon": 15.9964353, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-13 14:14:16" }, "geometry": { "type": "Point", "coordinates": [ 15.9964353, 45.8147707 ] } }
+,
+{ "type": "Feature", "id": 2064832066, "properties": { "id": 2064832066.0, "version": 1.0, "changeset": 14260532.0, "lat": 45.8147815, "lon": 15.9964481, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-13 14:14:16" }, "geometry": { "type": "Point", "coordinates": [ 15.9964481, 45.8147815 ] } }
+,
+{ "type": "Feature", "id": 2064832067, "properties": { "id": 2064832067.0, "version": 1.0, "changeset": 14260532.0, "lat": 45.8148035, "lon": 15.9964875, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-13 14:14:16" }, "geometry": { "type": "Point", "coordinates": [ 15.9964875, 45.8148035 ] } }
+,
+{ "type": "Feature", "id": 2064832071, "properties": { "id": 2064832071.0, "version": 1.0, "changeset": 14260532.0, "lat": 45.8150079, "lon": 15.9970803, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-13 14:14:16" }, "geometry": { "type": "Point", "coordinates": [ 15.9970803, 45.8150079 ] } }
+,
+{ "type": "Feature", "id": 2062425680, "properties": { "id": 2062425680.0, "version": 2.0, "changeset": 14260854.0, "lat": 45.8103241, "lon": 15.9933109, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-13 14:47:36" }, "geometry": { "type": "Point", "coordinates": [ 15.9933109, 45.8103241 ] } }
+,
+{ "type": "Feature", "id": 2064892576, "properties": { "id": 2064892576.0, "version": 2.0, "changeset": 14261620.0, "lat": 45.8103464, "lon": 15.993332, "user": "Doma93", "uid": "351333", "visible": "true", "timestamp": "2012-12-13 16:09:08" }, "geometry": { "type": "Point", "coordinates": [ 15.993332, 45.8103464 ] } }
+,
+{ "type": "Feature", "id": 2093801572, "properties": { "id": 2093801572.0, "version": 1.0, "changeset": 14515989.0, "lat": 45.8172515, "lon": 16.0063688, "user": "adirricor", "uid": "245439", "visible": "true", "timestamp": "2013-01-03 18:12:11" }, "geometry": { "type": "Point", "coordinates": [ 16.0063688, 45.8172515 ] } }
+
+]
+}
